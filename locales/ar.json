@@ -14,7 +14,6 @@
     "All apps": "جميع التطبيقات",
     "Inner Sign app icon: four golden elemental symbols surrounding a central spiral on a dark field": "أيقونة تطبيق Inner Sign: أربعة رموز ذهبية للعناصر تحيط بشكل حلزوني وسط خلفية داكنة",
     "Sun, number, zodiac, and moon—one reading, drawn fresh each day.": "الشمس والعدد والبرج والقمر—قراءة واحدة تتجدد كل يوم.",
-    "Coming soon to iPhone and Android": "قريباً على iPhone وAndroid",
     "Coming soon": "قريباً",
     "Follow the four threads": "اتبع الخيوط الأربعة",
     "scroll to look within": "مرّر لتنظر إلى داخلك",
@@ -64,10 +63,11 @@
     "Explore all Moving Truth apps": "استكشف جميع تطبيقات Moving Truth",
     "Your place in the pattern.": "مكانك في هذا النمط.",
     "Inner Sign is being built natively for iPhone and Android. The formula is locked and tested; the experience and its multilingual content are still being crafted.": "يُبنى Inner Sign أصلياً من أجل iPhone وAndroid. صيغته ثابتة ومختبرة، بينما لا تزال التجربة ومحتواها متعدد اللغات قيد الصياغة.",
-    "Ask about Inner Sign": "اسأل عن Inner Sign",
     "Footer navigation": "التنقل في تذييل الصفحة",
     "Support": "الدعم",
-    "© 2026 Inner Sign by Moving Truth. For iPhone and Android.": "© 2026 Inner Sign من Moving Truth. لـ iPhone وAndroid."
+    "© 2026 Inner Sign by Moving Truth. For iPhone and Android.": "© 2026 Inner Sign من Moving Truth. لـ iPhone وAndroid.",
+    "Join early access": "انضم إلى الوصول المبكر",
+    "Join Inner Sign Early Access": "انضم إلى الوصول المبكر لـ Inner Sign"
   },
   "scriptTranslations": {
     "Close navigation": "أغلق قائمة التنقل",
