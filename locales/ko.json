@@ -1,94 +1,401 @@
 {
-  "translations": {
-    "Inner Sign — by Moving Truth": "Inner Sign — Moving Truth 제공",
-    "Skip to main content": "주요 콘텐츠로 건너뛰기",
-    "Inner Sign home": "Inner Sign 홈",
-    "Open navigation": "탐색 열기",
-    "Main navigation": "주 탐색",
-    "Availability": "출시 정보",
-    "All apps": "모든 앱",
-    "Inner Sign app icon: four golden elemental symbols surrounding a central spiral on a dark field": "Inner Sign 앱 아이콘: 어두운 배경의 중앙 소용돌이를 둘러싼 네 개의 금빛 원소 기호",
-    "scroll to look within": "스크롤하여 안을 바라보기",
-    "A reading that belongs to you and this day.": "나와 오늘에 속한 해석.",
-    "Stable in you": "내 안에서 변하지 않는 것",
-    "Alive in the day": "오늘 안에서 살아 있는 것",
-    "Fresh, not random": "새롭지만 무작위가 아닌",
-    "An intention for Inner Sign": "Inner Sign을 위한 뜻",
-    "May every lens widen curiosity without narrowing truth.": "모든 관점이 진실을 좁히지 않고 호기심을 넓히기를.",
-    "May the old systems be treated with respect.": "오래된 체계를 존중하여 다루기를.",
-    "May the reading return each person gently to their own knowing.": "해석이 각 사람을 자신의 앎으로 부드럽게 돌려보내기를.",
-    "About Moving Truth": "Moving Truth 소개",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth. movingtruth.com 열기",
-    "Moving Truth logo": "Moving Truth 로고",
-    "by Moving Truth": "Moving Truth 제공",
-    "Made with love by Skylaur Roe": "Skylaur Roe가 사랑을 담아 만듦",
-    "Explore all Moving Truth apps": "모든 Moving Truth 앱 살펴보기",
-    "Your place in the pattern.": "무늬 속 나의 자리.",
-    "Footer navigation": "바닥글 탐색",
-    "Support": "지원",
-    "Join early access": "얼리 액세스 참여하기",
-    "Join Inner Sign Early Access": "Inner Sign 얼리 액세스 참여하기",
-    "Inner Sign brings a personal daily reflection, the real sky above you, and a sourced atlas of the constellations into one private app. In development for iPhone and iPad.": "Inner Sign은 개인적인 일상의 성찰, 당신 머리 위의 실제 하늘, 그리고 출처를 밝힌 별자리 지도를 하나의 비공개 앱에 담습니다. iPhone과 iPad용으로 개발 중입니다.",
-    "Look inward. Look upward. Follow the connection.": "안을 들여다보세요. 위를 올려다보세요. 연결을 따라가세요.",
-    "Today": "오늘",
-    "My Sky": "나의 하늘",
-    "Explore": "탐색",
-    "See what’s inside": "안에 무엇이 있는지 보기",
-    "A doorway, not a verdict.": "판결이 아닌, 하나의 문.",
-    "Inner Sign brings personal reflection, the observable sky, and the human story of astronomy into one connected place. It offers patterns to consider—not rules about who you are or what must happen next.": "Inner Sign은 개인적인 성찰, 관측할 수 있는 하늘, 천문학에 담긴 인간의 이야기를 서로 연결된 한곳에 모읍니다. 생각해 볼 만한 패턴을 건넬 뿐—당신이 누구인지, 다음에 무엇이 일어나야 하는지에 대한 규칙이 아닙니다.",
-    "Measurement comes before meaning. Every thread stays visible.": "의미보다 측정이 먼저입니다. 모든 실마리는 보이는 채로 남습니다.",
-    "What Inner Sign holds": "Inner Sign에 담긴 것",
-    "Your Calendar": "나의 캘린더",
-    "Today · look inward": "오늘 · 안을 들여다보세요",
-    "Give Inner Sign one birth date. It meets a stable personal foundation with the changing character of the day, in a short reflection you can take or leave.": "Inner Sign에 생년월일 하나를 알려 주세요. 변하지 않는 개인의 바탕과 그날그날 달라지는 성격을 만나게 하여, 받아들여도 그냥 두어도 되는 짧은 성찰로 전합니다.",
-    "Your sun sign and its Inner Sign third, your Chinese zodiac animal, and its element.": "당신의 태양 별자리와 그 Inner Sign 구간, 띠 동물과 그 원소.",
-    "The Universal Day Number, with its arithmetic shown, and the Moon’s current phase.": "계산 과정을 보여 주는 오늘의 보편수, 그리고 현재 달의 위상.",
-    "The same birth date on the same day always returns the same reading.": "같은 날 같은 생년월일은 언제나 같은 해석을 돌려줍니다.",
-    "Every part opens further": "모든 부분이 더 깊이 열립니다",
-    "Tap a sign, an animal, the day number, or the Moon to open a fuller explanation. Every sign and constellation result and all eight Moon phases continue into a sourced Explore page; sourced pages for the Chinese zodiac animals and the day numbers are still being added.": "별자리, 띠 동물, 그날의 수 또는 달을 탭하면 더 자세한 설명이 열립니다. 모든 별자리 결과와 여덟 가지 달의 위상은 출처가 있는 탐색 페이지로 이어집니다. 띠 동물과 그날의 수에 대한 출처 있는 페이지는 아직 추가되는 중입니다.",
-    "Two ways to read the sky": "하늘을 읽는 두 가지 방법",
-    "Traditional 12. Astronomical 13.": "전통 12. 천문 13.",
-    "Read your sign through the familiar twelve-sign zodiac, or through the thirteen constellations the Sun actually crosses—Ophiuchus included. Switch lenses inside any reading and see what changes for your birthday. Only the sign changes; the rest of the reading holds still.": "익숙한 12궁 황도대로 별자리를 읽거나, 태양이 실제로 지나가는 열세 개의 별자리—뱀주인자리 포함—로 읽어 보세요. 어떤 해석에서든 관점을 바꾸고 당신의 생일에 무엇이 달라지는지 확인하세요. 바뀌는 것은 별자리뿐이고, 해석의 나머지는 그대로입니다.",
-    "Neither lens is presented as the single proven truth. Curiosity is the feature.": "어느 관점도 유일하게 증명된 진실로 제시되지 않습니다. 핵심은 호기심입니다.",
-    "My Sky · look upward": "나의 하늘 · 위를 올려다보세요",
-    "The sky above you, calculated on your device.": "당신 머리 위의 하늘을, 당신의 기기에서 계산합니다.",
-    "Choose a viewpoint—a single location snapshot, or a city picked from more than 34,000 stored offline—and Inner Sign works out what it can from there, without a network connection.": "관측 지점을 고르세요—한 번 찍은 위치 스냅숏이나, 오프라인에 저장된 34,000개가 넘는 도시 중 하나—그러면 Inner Sign이 그곳에서 계산할 수 있는 것을 네트워크 연결 없이 계산합니다.",
-    "Where Antares stands": "안타레스의 위치",
-    "The bright red heart of Scorpius: above or below your horizon, which direction, and how high.": "전갈자리의 밝고 붉은 심장: 지평선 위인지 아래인지, 어느 방향에, 얼마나 높이 있는지.",
-    "Finding Andromeda": "안드로메다 찾기",
-    "Where M31, our nearest major galactic neighbour, sits in your sky, what it takes to actually see its faint haze, and a direct path to its finding chart in Explore.": "우리와 가장 가까운 큰 은하 이웃 M31이 당신의 하늘 어디에 있는지, 그 희미한 빛 무리를 실제로 보려면 무엇이 필요한지, 그리고 탐색에 있는 찾기 성도로 바로 가는 길.",
-    "The age of light": "빛의 나이",
-    "How long the sunlight reaching you has travelled, the full journey of moonlight from Sun to Moon to you, and the roughly 2.5 million years Andromeda’s light has spent reaching you.": "당신에게 닿는 햇빛이 얼마나 여행해 왔는지, 태양에서 달을 거쳐 당신에게 이르는 달빛의 전체 여정, 그리고 안드로메다의 빛이 당신에게 닿기까지 걸린 약 250만 년.",
-    "Every eclipse of the year": "그해의 모든 일식과 월식",
-    "Solar and lunar, worldwide, with the ones visible from your viewpoint gathered first.": "전 세계의 일식과 월식을, 당신의 관측 지점에서 보이는 것부터 모아서 보여 줍니다.",
-    "The year’s turning points": "한 해의 전환점",
-    "Each primary Moon phase, the equinoxes, and the solstices for the year you choose.": "선택한 해의 주요 달 위상, 춘분과 추분, 하지와 동지.",
-    "Explore · follow the connection": "탐색 · 연결을 따라가세요",
-    "Twenty-one constellations, charted from the sources.": "출처에 근거해 그린 스물한 개의 별자리.",
-    "All thirteen constellations on the Sun’s path, and eight neighbours beyond it—Cetus, Orion, Canis Major, the two Bears, Cassiopeia, Andromeda, and Crux. Each guide is drawn from catalogued star positions inside its official boundary, shows how long each featured star’s light has been travelling, and includes a complete star list for anyone who would rather read than look. Andromeda’s chart also marks the Andromeda Galaxy, M31.": "태양의 길 위에 있는 열세 개의 별자리 모두와, 그 너머의 이웃 여덟 개—고래자리, 오리온자리, 큰개자리, 큰곰자리와 작은곰자리, 카시오페이아자리, 안드로메다자리, 남십자자리. 각 안내서는 공식 경계 안의 목록화된 별 위치를 바탕으로 그려지고, 소개된 각 별의 빛이 얼마나 오래 여행해 왔는지 보여 주며, 보기보다 읽기를 원하는 사람을 위해 완전한 별 목록도 담고 있습니다. 안드로메다자리 성도에는 안드로메다은하 M31도 표시됩니다.",
-    "A knowledge map that shows how constellations, events, people, and traditions connect—also available as a plain list.": "별자리, 사건, 인물, 전통이 어떻게 연결되는지 보여 주는 지식 지도—간단한 목록으로도 볼 수 있습니다.",
-    "An interactive Moon lesson: move the Moon around the Earth and watch all eight phases form.": "대화형 달 수업: 달을 지구 주위로 움직이며 여덟 가지 위상이 모두 만들어지는 모습을 지켜보세요.",
-    "The Moon, the seasons, solstices, and equinoxes, each explained and linked to its sources.": "달, 계절, 지점과 분점—각각을 설명하고 출처로 연결합니다.",
-    "Astronomy, history, cultural tradition, astrology, and Inner Sign’s own interpretation, always labelled as which is which.": "천문학, 역사, 문화 전통, 점성술, 그리고 Inner Sign 고유의 해석—무엇이 무엇인지 항상 표시합니다.",
-    "The sky’s dates, only if you ask.": "하늘의 날짜는, 원할 때만.",
-    "Set a reminder for a single event, turn on alerts for the year’s Moon phases, seasons, and eclipses, or add the whole year to a separate Inner Sign calendar in Apple Calendar in one step. Adding it twice won’t create duplicates, and Inner Sign never reads your other events.": "한 가지 일정에 대한 알림을 설정하거나, 그해의 달 위상·계절·일식과 월식에 대한 알림을 켜거나, Apple 캘린더의 별도 Inner Sign 캘린더에 한 해 전체를 한 번에 추가하세요. 두 번 추가해도 중복이 생기지 않으며, Inner Sign은 다른 일정을 절대 읽지 않습니다.",
-    "Built for clarity and trust": "명확함과 신뢰를 위해",
-    "Nothing hidden. Nothing taken.": "숨기는 것 없이. 가져가는 것 없이.",
-    "Private by design": "설계부터 비공개",
-    "Your birth date and chosen city stay on your device. A location snapshot is held only for the session—never tracked, never saved. No accounts, no ads, no tracking.": "생년월일과 선택한 도시는 당신의 기기에 머뭅니다. 위치 스냅숏은 세션 동안에만 보관되며—추적되지도, 저장되지도 않습니다. 계정도, 광고도, 추적도 없습니다.",
-    "Sources you can inspect": "확인할 수 있는 출처",
-    "Sky calculations and factual pages link to their sources, so you can check them and keep going.": "하늘 계산과 사실을 다루는 페이지는 출처로 연결되므로, 직접 확인하고 계속 나아갈 수 있습니다.",
-    "Made to adapt": "당신에게 맞추도록",
-    "VoiceOver, larger text, increased contrast, Reduce Motion, and readable alternatives to every chart.": "VoiceOver, 더 큰 텍스트, 대비 증가, 동작 줄이기, 그리고 모든 성도에 대한 읽기 쉬운 대안.",
-    "A formula in the open": "공개된 공식",
-    "How a reading is built—both lenses, the thirds, the day number, the Chinese zodiac, the Moon—is published and tested.": "해석이 만들어지는 방식—두 가지 관점, 구간, 그날의 수, 띠, 달—은 공개되어 있고 검증되었습니다.",
-    "Read the formula for yourself": "공식을 직접 읽어 보세요",
-    "Where Inner Sign stands": "Inner Sign의 현재",
-    "Inner Sign is in development for iPhone and iPad and is not yet on the App Store. Today, My Sky, and Explore all work now. Every selectable birth date from 1900 through today opens a reading in English. Where a fully written passage isn’t finished yet, a shorter general one stands in while the full library of readings is still being written and reviewed. The app’s own translations into the thirteen other languages this website is published in, and an Android edition, come after.": "Inner Sign은 iPhone과 iPad용으로 개발 중이며 아직 App Store에 출시되지 않았습니다. 오늘, 나의 하늘, 탐색은 이미 모두 작동합니다. 1900년부터 오늘까지 선택할 수 있는 모든 생년월일은 영어로 된 해석을 엽니다. 완전히 쓰인 글이 아직 준비되지 않은 곳에서는, 전체 해석 라이브러리를 계속 쓰고 검토하는 동안 더 짧은 일반적인 글이 그 자리를 대신합니다. 이 웹사이트가 게시되는 다른 13개 언어로의 앱 자체 번역과 Android 버전은 그다음입니다.",
-    "© 2026 Inner Sign by Moving Truth. In development for iPhone and iPad.": "© 2026 Inner Sign by Moving Truth. iPhone과 iPad용으로 개발 중입니다."
-  },
-  "scriptTranslations": {
-    "Close navigation": "탐색 닫기",
-    "Open navigation": "탐색 열기"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-sign.index.text.0001": {
+      "value": "Inner Sign — Moving Truth 제공",
+      "sourceSha256": "82356b039ba75df9dbd26df9d86e2a47c556d7320d2426e41204321110d2266a"
+    },
+    "inner-sign.index.text.0002": {
+      "value": "주요 콘텐츠로 건너뛰기",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-sign.index.text.0003": {
+      "value": "탐색 열기",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-sign.index.text.0004": {
+      "value": "오늘",
+      "sourceSha256": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    "inner-sign.index.text.0005": {
+      "value": "나의 하늘",
+      "sourceSha256": "e6ce26a3a1ae7daf33bc8899a067e791d7a3984d587865023bef58b892f40376"
+    },
+    "inner-sign.index.text.0006": {
+      "value": "탐색",
+      "sourceSha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    "inner-sign.index.text.0007": {
+      "value": "출시 정보",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    "inner-sign.index.text.0008": {
+      "value": "모든 앱",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-sign.index.text.0009": {
+      "value": "안을 들여다보세요. 위를 올려다보세요. 연결을 따라가세요.",
+      "sourceSha256": "54a7b75a7af0a2a48a75b83f0b5be12826ec619cfa37e1a3ae9c75042aa80f5b"
+    },
+    "inner-sign.index.text.0010": {
+      "value": "얼리 액세스 참여하기",
+      "sourceSha256": "ad15bb5a7b458a8929f40e30d83a46c78f3927e73890380ef79d3f2b4605ae00"
+    },
+    "inner-sign.index.text.0011": {
+      "value": "안에 무엇이 있는지 보기",
+      "sourceSha256": "f93ebec1351e7cd3bff2df67bad375919e72451b9f355bfc43619fd7be1fbd2c"
+    },
+    "inner-sign.index.text.0012": {
+      "value": "스크롤하여 안을 바라보기",
+      "sourceSha256": "b4ed5666c45cf5c0b31b0ba239f822d532b4ec01203722f79f3ad38811950382"
+    },
+    "inner-sign.index.text.0013": {
+      "value": "판결이 아닌, 하나의 문.",
+      "sourceSha256": "0f01da5039850af16d7993a6124906d950da431bcd53ab3fdcb8f9b524b9b1c2"
+    },
+    "inner-sign.index.text.0014": {
+      "value": "Inner Sign은 개인적인 성찰, 관측할 수 있는 하늘, 천문학에 담긴 인간의 이야기를 서로 연결된 한곳에 모읍니다. 생각해 볼 만한 패턴을 건넬 뿐—당신이 누구인지, 다음에 무엇이 일어나야 하는지에 대한 규칙이 아닙니다.",
+      "sourceSha256": "de1e3cfac3b5ab9352d74a1d0de006cba1b031f46dcb6825d6ba44977d7638de"
+    },
+    "inner-sign.index.text.0015": {
+      "value": "의미보다 측정이 먼저입니다. 모든 실마리는 보이는 채로 남습니다.",
+      "sourceSha256": "2d542cb2a5fbc14df1bf85db7a3b19c128fb782e06ac6d68a8446f7379cef106"
+    },
+    "inner-sign.index.text.0016": {
+      "value": "오늘",
+      "sourceSha256": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    "inner-sign.index.text.0017": {
+      "value": "나의 하늘",
+      "sourceSha256": "e6ce26a3a1ae7daf33bc8899a067e791d7a3984d587865023bef58b892f40376"
+    },
+    "inner-sign.index.text.0018": {
+      "value": "탐색",
+      "sourceSha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    "inner-sign.index.text.0019": {
+      "value": "나의 캘린더",
+      "sourceSha256": "4606a66e61728dcd2e8219a649faa7eae8047ca3c3cef486c0204ad7730143e6"
+    },
+    "inner-sign.index.text.0020": {
+      "value": "오늘 · 안을 들여다보세요",
+      "sourceSha256": "145267c6b39670b7feb0dac3d81973d6d9a494e26f751e8e5f197d207083bca6"
+    },
+    "inner-sign.index.text.0021": {
+      "value": "나와 오늘에 속한 해석.",
+      "sourceSha256": "28522294a2ccfcd5bdb5241e333783195b0a68d33d67e47bd9cd450755192844"
+    },
+    "inner-sign.index.text.0022": {
+      "value": "Inner Sign에 생년월일 하나를 알려 주세요. 변하지 않는 개인의 바탕과 그날그날 달라지는 성격을 만나게 하여, 받아들여도 그냥 두어도 되는 짧은 성찰로 전합니다.",
+      "sourceSha256": "e7972badc53e2a252d142fca2a17b7aa263aaa5f87693676def3040b43504b08"
+    },
+    "inner-sign.index.text.0023": {
+      "value": "내 안에서 변하지 않는 것",
+      "sourceSha256": "73995a208209714a30dd1971a834e703a0aa3cb8b83b5cd0907042b7ffd9d322"
+    },
+    "inner-sign.index.text.0024": {
+      "value": "당신의 태양 별자리와 그 Inner Sign 구간, 띠 동물과 그 원소.",
+      "sourceSha256": "caac4d69264f9695061d5dadde53148e5d1e601008aa42c040a1181cf534e8f5"
+    },
+    "inner-sign.index.text.0025": {
+      "value": "오늘 안에서 살아 있는 것",
+      "sourceSha256": "bad119a91869f70e1f7487b9ac30935a2c2a9870602e6e898a95f5612133ee3c"
+    },
+    "inner-sign.index.text.0026": {
+      "value": "계산 과정을 보여 주는 오늘의 보편수, 그리고 현재 달의 위상.",
+      "sourceSha256": "f2d0e8be9cbcff920ef96956ba445b598ae6f4128e12e1b5fa1523187f7968c7"
+    },
+    "inner-sign.index.text.0027": {
+      "value": "새롭지만 무작위가 아닌",
+      "sourceSha256": "cc6b4ed3452bc23865e0b08caf301cf42162fda095faf510e175a2bb4f8103ca"
+    },
+    "inner-sign.index.text.0028": {
+      "value": "같은 날 같은 생년월일은 언제나 같은 해석을 돌려줍니다.",
+      "sourceSha256": "4079908bee1e063482b7f98e3452164e47f0a3b98f7cfd9ef3e11e11ea41cd31"
+    },
+    "inner-sign.index.text.0029": {
+      "value": "모든 부분이 더 깊이 열립니다",
+      "sourceSha256": "2f3324b27006cebca46b756fc09c865e99c055b4323b374dede3e44e209923b1"
+    },
+    "inner-sign.index.text.0030": {
+      "value": "별자리, 띠 동물, 그날의 수 또는 달을 탭하면 더 자세한 설명이 열립니다. 모든 별자리 결과와 여덟 가지 달의 위상은 출처가 있는 탐색 페이지로 이어집니다. 띠 동물과 그날의 수에 대한 출처 있는 페이지는 아직 추가되는 중입니다.",
+      "sourceSha256": "459c544c72fe1e0e1b6e0acc4b854dca2d03cbd554e548de6e31cde63495dd8e"
+    },
+    "inner-sign.index.text.0031": {
+      "value": "하늘을 읽는 두 가지 방법",
+      "sourceSha256": "4a1d4c11d3358a8c96d71d58842dc559ed31e741e8141d6ff0c0d48693483f4f"
+    },
+    "inner-sign.index.text.0032": {
+      "value": "전통 12. 천문 13.",
+      "sourceSha256": "0b2c207148cd0ee5db582954b8b53ac52fac33dd0fcbbc545bb35d5b30f62e74"
+    },
+    "inner-sign.index.text.0033": {
+      "value": "익숙한 12궁 황도대로 별자리를 읽거나, 태양이 실제로 지나가는 열세 개의 별자리—뱀주인자리 포함—로 읽어 보세요. 어떤 해석에서든 관점을 바꾸고 당신의 생일에 무엇이 달라지는지 확인하세요. 바뀌는 것은 별자리뿐이고, 해석의 나머지는 그대로입니다.",
+      "sourceSha256": "a684eccb872b4b064718585f21a53aeb11cba1d23975702de09b93b8a0a29f5f"
+    },
+    "inner-sign.index.text.0034": {
+      "value": "어느 관점도 유일하게 증명된 진실로 제시되지 않습니다. 핵심은 호기심입니다.",
+      "sourceSha256": "b02a43ea08c363c47d581567167720629ac40624441e34ae91787ff492bf5b11"
+    },
+    "inner-sign.index.text.0035": {
+      "value": "나의 하늘 · 위를 올려다보세요",
+      "sourceSha256": "c1c42d0e4aff568c031c4be1d3f3f16fd32bd830a536e86898a6985eb6236dc3"
+    },
+    "inner-sign.index.text.0036": {
+      "value": "당신 머리 위의 하늘을, 당신의 기기에서 계산합니다.",
+      "sourceSha256": "358f18e5410526773366daa27113bf7da599f128f2b15773db447ade216cbee7"
+    },
+    "inner-sign.index.text.0037": {
+      "value": "관측 지점을 고르세요—한 번 찍은 위치 스냅숏이나, 오프라인에 저장된 34,000개가 넘는 도시 중 하나—그러면 Inner Sign이 그곳에서 계산할 수 있는 것을 네트워크 연결 없이 계산합니다.",
+      "sourceSha256": "1556f7fa990176b8b98da0814d840f644f2e36de224863b535b5166a83fefc6e"
+    },
+    "inner-sign.index.text.0038": {
+      "value": "안타레스의 위치",
+      "sourceSha256": "7861ca31e0df03f9dea924b292c2edf7538f5b291bf9c3d403ebc499a46ab910"
+    },
+    "inner-sign.index.text.0039": {
+      "value": "전갈자리의 밝고 붉은 심장: 지평선 위인지 아래인지, 어느 방향에, 얼마나 높이 있는지.",
+      "sourceSha256": "9d5049b3acc141d191dfbcb04b7eaf9e86d7f6e2ca825ae118405f542049d350"
+    },
+    "inner-sign.index.text.0040": {
+      "value": "안드로메다 찾기",
+      "sourceSha256": "39359de9822211aae5e6795f7dcc1770bc6d3f9cc33664779d4b29ae3a1f90a1"
+    },
+    "inner-sign.index.text.0041": {
+      "value": "우리와 가장 가까운 큰 은하 이웃 M31이 당신의 하늘 어디에 있는지, 그 희미한 빛 무리를 실제로 보려면 무엇이 필요한지, 그리고 탐색에 있는 찾기 성도로 바로 가는 길.",
+      "sourceSha256": "bc53d42546de1c67577a7acf8c1a43e56cbd570b8e756c9bb5cacd8596c955f0"
+    },
+    "inner-sign.index.text.0042": {
+      "value": "빛의 나이",
+      "sourceSha256": "87b22d2c9f0603f238d13168b8f6b5c80352d029148002bc76ec95b4fa95b25d"
+    },
+    "inner-sign.index.text.0043": {
+      "value": "당신에게 닿는 햇빛이 얼마나 여행해 왔는지, 태양에서 달을 거쳐 당신에게 이르는 달빛의 전체 여정, 그리고 안드로메다의 빛이 당신에게 닿기까지 걸린 약 250만 년.",
+      "sourceSha256": "5aeca9ba02bf47e787160da520a924a323ebcd43286f6f1b5066120cbb9af82e"
+    },
+    "inner-sign.index.text.0044": {
+      "value": "그해의 모든 일식과 월식",
+      "sourceSha256": "42342bb1fa8b7e86c33764241ebdace5e8cb308b7c64080e193658433598d456"
+    },
+    "inner-sign.index.text.0045": {
+      "value": "전 세계의 일식과 월식을, 당신의 관측 지점에서 보이는 것부터 모아서 보여 줍니다.",
+      "sourceSha256": "472ef0a0ad36e18ec141091313b9ceeaf9e2123c4fb05f37586368983d4718e6"
+    },
+    "inner-sign.index.text.0046": {
+      "value": "한 해의 전환점",
+      "sourceSha256": "e24b96dbbe2e7a23885e3a1aeef2435e36802d822d1bb2ba62107d6633c12973"
+    },
+    "inner-sign.index.text.0047": {
+      "value": "선택한 해의 주요 달 위상, 춘분과 추분, 하지와 동지.",
+      "sourceSha256": "b05fd097f4af5332979907abf91d9adaf4ec437c385e0770fa7a04e052b59dbd"
+    },
+    "inner-sign.index.text.0048": {
+      "value": "탐색 · 연결을 따라가세요",
+      "sourceSha256": "35f509fb93d61ae3753bbc2a462215e4c53a6492a1099454b1bb061d552d52ed"
+    },
+    "inner-sign.index.text.0049": {
+      "value": "출처에 근거해 그린 스물한 개의 별자리.",
+      "sourceSha256": "0abc2e9b9fc9200999ffee4a36ccf620781947ca6a4755a3239b3e713fbb87ca"
+    },
+    "inner-sign.index.text.0050": {
+      "value": "태양의 길 위에 있는 열세 개의 별자리 모두와, 그 너머의 이웃 여덟 개—고래자리, 오리온자리, 큰개자리, 큰곰자리와 작은곰자리, 카시오페이아자리, 안드로메다자리, 남십자자리. 각 안내서는 공식 경계 안의 목록화된 별 위치를 바탕으로 그려지고, 소개된 각 별의 빛이 얼마나 오래 여행해 왔는지 보여 주며, 보기보다 읽기를 원하는 사람을 위해 완전한 별 목록도 담고 있습니다. 안드로메다자리 성도에는 안드로메다은하 M31도 표시됩니다.",
+      "sourceSha256": "c23d19d029c1ccc0123b331df298e3166873e82912c78e8cefda1e392eaaba2a"
+    },
+    "inner-sign.index.text.0051": {
+      "value": "별자리, 사건, 인물, 전통이 어떻게 연결되는지 보여 주는 지식 지도—간단한 목록으로도 볼 수 있습니다.",
+      "sourceSha256": "607ad3d175555a421388a389884887e9b646eec247726c962493fec18b55e198"
+    },
+    "inner-sign.index.text.0052": {
+      "value": "대화형 달 수업: 달을 지구 주위로 움직이며 여덟 가지 위상이 모두 만들어지는 모습을 지켜보세요.",
+      "sourceSha256": "fcc54b4e66863b8d0bd2a992ed165feb50da726eea050c6911635f45e4434d09"
+    },
+    "inner-sign.index.text.0053": {
+      "value": "달, 계절, 지점과 분점—각각을 설명하고 출처로 연결합니다.",
+      "sourceSha256": "e1cd4318fd117ce3c06c5fd6e159440bfb60ba0748f1fa5a451cf3696a45ea73"
+    },
+    "inner-sign.index.text.0054": {
+      "value": "천문학, 역사, 문화 전통, 점성술, 그리고 Inner Sign 고유의 해석—무엇이 무엇인지 항상 표시합니다.",
+      "sourceSha256": "b0c066bb13b0ea66c3c6dff1ef49d6e130a729b98d98258bbc556d6a17fdfa4f"
+    },
+    "inner-sign.index.text.0055": {
+      "value": "나의 캘린더",
+      "sourceSha256": "4606a66e61728dcd2e8219a649faa7eae8047ca3c3cef486c0204ad7730143e6"
+    },
+    "inner-sign.index.text.0056": {
+      "value": "하늘의 날짜는, 원할 때만.",
+      "sourceSha256": "9438104218dada8cabae36353ecbfb5f52088292cdeee0943879132d3fc14e8d"
+    },
+    "inner-sign.index.text.0057": {
+      "value": "한 가지 일정에 대한 알림을 설정하거나, 그해의 달 위상·계절·일식과 월식에 대한 알림을 켜거나, Apple 캘린더의 별도 Inner Sign 캘린더에 한 해 전체를 한 번에 추가하세요. 두 번 추가해도 중복이 생기지 않으며, Inner Sign은 다른 일정을 절대 읽지 않습니다.",
+      "sourceSha256": "af6d3d08ac3aa6ec85c7336609bf08d4c4ad36af1fcbb1d850b1c6f8b2236386"
+    },
+    "inner-sign.index.text.0058": {
+      "value": "명확함과 신뢰를 위해",
+      "sourceSha256": "53fdee2c427c8c5121dd16b6760bbc0e1f7cff564f188d96c28f1cc9d40ef3d0"
+    },
+    "inner-sign.index.text.0059": {
+      "value": "숨기는 것 없이. 가져가는 것 없이.",
+      "sourceSha256": "0b1ffd4721a1989fc9ccb201325972e7983a69e85fc9baa7d03295aaa0322059"
+    },
+    "inner-sign.index.text.0060": {
+      "value": "설계부터 비공개",
+      "sourceSha256": "485ca594ccc9003ba4908cc7f0024a92ce2a89f2e3e49fb4acbc61770eff6580"
+    },
+    "inner-sign.index.text.0061": {
+      "value": "생년월일과 선택한 도시는 당신의 기기에 머뭅니다. 위치 스냅숏은 세션 동안에만 보관되며—추적되지도, 저장되지도 않습니다. 계정도, 광고도, 추적도 없습니다.",
+      "sourceSha256": "2ad537b12802e373efb0b137771a1a841fa609b82f491c3a1254d8d5d7b64f81"
+    },
+    "inner-sign.index.text.0062": {
+      "value": "확인할 수 있는 출처",
+      "sourceSha256": "ef9757a37a74284f08da0f0001bb5f03672cbc9be75e524743f08d62129f5e43"
+    },
+    "inner-sign.index.text.0063": {
+      "value": "하늘 계산과 사실을 다루는 페이지는 출처로 연결되므로, 직접 확인하고 계속 나아갈 수 있습니다.",
+      "sourceSha256": "5d769961791513ecbc5a31217b6ad1da78787d251068841072f8e7b45ef77354"
+    },
+    "inner-sign.index.text.0064": {
+      "value": "당신에게 맞추도록",
+      "sourceSha256": "e6bd2b61b5a2802604d3c4b17ad33e1f83b025c657dd31e296b043c5129c199c"
+    },
+    "inner-sign.index.text.0065": {
+      "value": "VoiceOver, 더 큰 텍스트, 대비 증가, 동작 줄이기, 그리고 모든 성도에 대한 읽기 쉬운 대안.",
+      "sourceSha256": "4ce09bdcaf7bb01a756adaa696604eef158bc48638625f8c868b3aaffde9234b"
+    },
+    "inner-sign.index.text.0066": {
+      "value": "공개된 공식",
+      "sourceSha256": "435874d5b03742f970cd81dcc0436e6da23b183adf79925f7097da2855ff7577"
+    },
+    "inner-sign.index.text.0067": {
+      "value": "해석이 만들어지는 방식—두 가지 관점, 구간, 그날의 수, 띠, 달—은 공개되어 있고 검증되었습니다.",
+      "sourceSha256": "088db018f9167688d26a22c37d6743ea78664a8e7a71dfb905b5c821972fc489"
+    },
+    "inner-sign.index.text.0068": {
+      "value": "공식을 직접 읽어 보세요",
+      "sourceSha256": "e76932ff254ef186abc14244ea46dc42897781581fe75d9c46ef92999ac31897"
+    },
+    "inner-sign.index.text.0069": {
+      "value": "Inner Sign을 위한 뜻",
+      "sourceSha256": "f3cb50e5793d4c150eabc4579c6e97535ca09a1261e0d262c7eb4eae8979039e"
+    },
+    "inner-sign.index.text.0070": {
+      "value": "모든 관점이 진실을 좁히지 않고 호기심을 넓히기를.",
+      "sourceSha256": "ee9b78afca463289cd09058120d4fafa0788f3ff922de62a8230a925670359ea"
+    },
+    "inner-sign.index.text.0071": {
+      "value": "오래된 체계를 존중하여 다루기를.",
+      "sourceSha256": "f1d36704784ae8a14feba8c9ade5a06bd36fc4e0da6d8e03a45ca5fd837ba6b4"
+    },
+    "inner-sign.index.text.0072": {
+      "value": "해석이 각 사람을 자신의 앎으로 부드럽게 돌려보내기를.",
+      "sourceSha256": "c419ec779053072bd232db8a2eb79c51a2b4e541b63ca05672b9e350e85074ad"
+    },
+    "inner-sign.index.text.0073": {
+      "value": "Moving Truth 제공",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-sign.index.text.0074": {
+      "value": "Skylaur Roe가 사랑을 담아 만듦",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    "inner-sign.index.text.0075": {
+      "value": "모든 Moving Truth 앱 살펴보기",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-sign.index.text.0076": {
+      "value": "Inner Sign의 현재",
+      "sourceSha256": "6960e43950f6e7036dafd45aef73ad26ff9462c5303e094806f4fc8ae43b674e"
+    },
+    "inner-sign.index.text.0077": {
+      "value": "무늬 속 나의 자리.",
+      "sourceSha256": "930fb711cc36065c557ae1eff4121f7daff878ac1d2a68145e326db0c14dd8a8"
+    },
+    "inner-sign.index.text.0078": {
+      "value": "Inner Sign은 iPhone과 iPad용으로 개발 중이며 아직 App Store에 출시되지 않았습니다. 오늘, 나의 하늘, 탐색은 이미 모두 작동합니다. 1900년부터 오늘까지 선택할 수 있는 모든 생년월일은 영어로 된 해석을 엽니다. 완전히 쓰인 글이 아직 준비되지 않은 곳에서는, 전체 해석 라이브러리를 계속 쓰고 검토하는 동안 더 짧은 일반적인 글이 그 자리를 대신합니다. 이 웹사이트가 게시되는 다른 13개 언어로의 앱 자체 번역과 Android 버전은 그다음입니다.",
+      "sourceSha256": "38d19027efb46baf3cf5696e89d9f999eb184951076f4154e485a477d369e6ff"
+    },
+    "inner-sign.index.text.0079": {
+      "value": "Inner Sign 얼리 액세스 참여하기",
+      "sourceSha256": "537102624fffc160501fcd9c0b91a3a1a43f08bcf5b3ffded1a8894c97e9b83c"
+    },
+    "inner-sign.index.text.0080": {
+      "value": "오늘",
+      "sourceSha256": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    "inner-sign.index.text.0081": {
+      "value": "나의 하늘",
+      "sourceSha256": "e6ce26a3a1ae7daf33bc8899a067e791d7a3984d587865023bef58b892f40376"
+    },
+    "inner-sign.index.text.0082": {
+      "value": "탐색",
+      "sourceSha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    "inner-sign.index.text.0083": {
+      "value": "지원",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-sign.index.text.0084": {
+      "value": "모든 앱",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-sign.index.text.0085": {
+      "value": "© 2026 Inner Sign by Moving Truth. iPhone과 iPad용으로 개발 중입니다.",
+      "sourceSha256": "14228bf6366e2fcda27811e6e70c227852456cd84147cf9acd8b43bbdd2aa715"
+    },
+    "inner-sign.index.attribute.0001": {
+      "value": "Inner Sign은 개인적인 일상의 성찰, 당신 머리 위의 실제 하늘, 그리고 출처를 밝힌 별자리 지도를 하나의 비공개 앱에 담습니다. iPhone과 iPad용으로 개발 중입니다.",
+      "sourceSha256": "d87b81f26ab38dff6885b9e3a0845cc139c2544df4a272776e38d7a6700d67f3"
+    },
+    "inner-sign.index.attribute.0002": {
+      "value": "Inner Sign — Moving Truth 제공",
+      "sourceSha256": "82356b039ba75df9dbd26df9d86e2a47c556d7320d2426e41204321110d2266a"
+    },
+    "inner-sign.index.attribute.0003": {
+      "value": "안을 들여다보세요. 위를 올려다보세요. 연결을 따라가세요.",
+      "sourceSha256": "54a7b75a7af0a2a48a75b83f0b5be12826ec619cfa37e1a3ae9c75042aa80f5b"
+    },
+    "inner-sign.index.attribute.0004": {
+      "value": "Inner Sign 홈",
+      "sourceSha256": "ef12ad1504de535019d244e1516c1c43e17cb56367c446d6d68d226f4106d9d5"
+    },
+    "inner-sign.index.attribute.0005": {
+      "value": "주 탐색",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-sign.index.attribute.0006": {
+      "value": "Inner Sign 앱 아이콘: 어두운 배경의 중앙 소용돌이를 둘러싼 네 개의 금빛 원소 기호",
+      "sourceSha256": "ae431171ba530a6d0884be323a249b1504a2a43eafc99d97332b6d002bd39cc4"
+    },
+    "inner-sign.index.attribute.0007": {
+      "value": "Inner Sign에 담긴 것",
+      "sourceSha256": "bf27b6d3aa5531f30f0dd7ba3f3a31bc291f3a3278f780f8309de486380069b7"
+    },
+    "inner-sign.index.attribute.0008": {
+      "value": "Moving Truth 소개",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-sign.index.attribute.0009": {
+      "value": "Moving Truth. movingtruth.com 열기",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-sign.index.attribute.0010": {
+      "value": "Moving Truth 로고",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-sign.index.attribute.0011": {
+      "value": "바닥글 탐색",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-sign.index.script.0001": {
+      "value": "탐색 열기",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-sign.site-js.script.0001": {
+      "value": "탐색 닫기",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    "inner-sign.site-js.script.0002": {
+      "value": "탐색 열기",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    }
   }
 }

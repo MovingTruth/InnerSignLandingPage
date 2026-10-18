@@ -1,94 +1,401 @@
 {
-  "translations": {
-    "Inner Sign — by Moving Truth": "Inner Sign — di Moving Truth",
-    "Skip to main content": "Vai al contenuto principale",
-    "Inner Sign home": "Pagina iniziale di Inner Sign",
-    "Open navigation": "Apri la navigazione",
-    "Main navigation": "Navigazione principale",
-    "Availability": "Disponibilità",
-    "All apps": "Tutte le app",
-    "Inner Sign app icon: four golden elemental symbols surrounding a central spiral on a dark field": "Icona di Inner Sign: quattro simboli elementali dorati attorno a una spirale centrale su fondo scuro",
-    "scroll to look within": "scorri per guardare dentro",
-    "A reading that belongs to you and this day.": "Una lettura che appartiene a te e a questo giorno.",
-    "Stable in you": "Stabile in te",
-    "Alive in the day": "Vivo nel giorno",
-    "Fresh, not random": "Nuovo, non casuale",
-    "An intention for Inner Sign": "Un’intenzione per Inner Sign",
-    "May every lens widen curiosity without narrowing truth.": "Che ogni prospettiva allarghi la curiosità senza restringere la verità.",
-    "May the old systems be treated with respect.": "Che i sistemi antichi siano trattati con rispetto.",
-    "May the reading return each person gently to their own knowing.": "Che la lettura riporti con dolcezza ogni persona al proprio sapere.",
-    "About Moving Truth": "Informazioni su Moving Truth",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth. Apre movingtruth.com",
-    "Moving Truth logo": "Logo di Moving Truth",
-    "by Moving Truth": "di Moving Truth",
-    "Made with love by Skylaur Roe": "Creato con amore da Skylaur Roe",
-    "Explore all Moving Truth apps": "Scopri tutte le app Moving Truth",
-    "Your place in the pattern.": "Il tuo posto nel disegno.",
-    "Footer navigation": "Navigazione a piè di pagina",
-    "Support": "Assistenza",
-    "Join early access": "Partecipa all’accesso anticipato",
-    "Join Inner Sign Early Access": "Partecipa all’accesso anticipato di Inner Sign",
-    "Inner Sign brings a personal daily reflection, the real sky above you, and a sourced atlas of the constellations into one private app. In development for iPhone and iPad.": "Inner Sign riunisce una riflessione quotidiana personale, il cielo reale sopra di te e un atlante delle costellazioni con fonti in un’unica app privata. In sviluppo per iPhone e iPad.",
-    "Look inward. Look upward. Follow the connection.": "Guarda dentro di te. Guarda in alto. Segui il legame.",
-    "Today": "Oggi",
-    "My Sky": "Il mio cielo",
-    "Explore": "Esplora",
-    "See what’s inside": "Scopri che cosa contiene",
-    "A doorway, not a verdict.": "Una porta, non un verdetto.",
-    "Inner Sign brings personal reflection, the observable sky, and the human story of astronomy into one connected place. It offers patterns to consider—not rules about who you are or what must happen next.": "Inner Sign riunisce la riflessione personale, il cielo osservabile e la storia umana dell’astronomia in un unico luogo connesso. Offre schemi su cui riflettere, non regole su chi sei o su che cosa debba accadere dopo.",
-    "Measurement comes before meaning. Every thread stays visible.": "La misura viene prima del significato. Ogni filo resta visibile.",
-    "What Inner Sign holds": "Che cosa contiene Inner Sign",
-    "Your Calendar": "Il tuo calendario",
-    "Today · look inward": "Oggi · guarda dentro di te",
-    "Give Inner Sign one birth date. It meets a stable personal foundation with the changing character of the day, in a short reflection you can take or leave.": "Dai a Inner Sign una data di nascita. Unisce una base personale stabile al carattere mutevole del giorno, in una breve riflessione che puoi accogliere o lasciare.",
-    "Your sun sign and its Inner Sign third, your Chinese zodiac animal, and its element.": "Il tuo segno solare e il suo terzo di Inner Sign, il tuo animale dello zodiaco cinese e il suo elemento.",
-    "The Universal Day Number, with its arithmetic shown, and the Moon’s current phase.": "Il numero universale del giorno, con il calcolo in vista, e la fase attuale della Luna.",
-    "The same birth date on the same day always returns the same reading.": "La stessa data di nascita nello stesso giorno restituisce sempre la stessa lettura.",
-    "Every part opens further": "Ogni parte porta più lontano",
-    "Tap a sign, an animal, the day number, or the Moon to open a fuller explanation. Every sign and constellation result and all eight Moon phases continue into a sourced Explore page; sourced pages for the Chinese zodiac animals and the day numbers are still being added.": "Tocca un segno, un animale, il numero del giorno o la Luna per aprire una spiegazione più completa. Ogni risultato di segno e di costellazione e tutte e otto le fasi lunari proseguono in una pagina di Esplora con fonti; le pagine con fonti dedicate agli animali dello zodiaco cinese e ai numeri del giorno sono ancora in fase di aggiunta.",
-    "Two ways to read the sky": "Due modi di leggere il cielo",
-    "Traditional 12. Astronomical 13.": "Tradizionale 12. Astronomico 13.",
-    "Read your sign through the familiar twelve-sign zodiac, or through the thirteen constellations the Sun actually crosses—Ophiuchus included. Switch lenses inside any reading and see what changes for your birthday. Only the sign changes; the rest of the reading holds still.": "Leggi il tuo segno attraverso il familiare zodiaco a dodici segni, oppure attraverso le tredici costellazioni che il Sole attraversa davvero, Ofiuco compreso. Cambia prospettiva in qualsiasi lettura e guarda che cosa cambia per il tuo compleanno. Cambia solo il segno; il resto della lettura resta fermo.",
-    "Neither lens is presented as the single proven truth. Curiosity is the feature.": "Nessuna delle due prospettive è presentata come l’unica verità dimostrata. La curiosità è il cuore di tutto.",
-    "My Sky · look upward": "Il mio cielo · guarda in alto",
-    "The sky above you, calculated on your device.": "Il cielo sopra di te, calcolato sul tuo dispositivo.",
-    "Choose a viewpoint—a single location snapshot, or a city picked from more than 34,000 stored offline—and Inner Sign works out what it can from there, without a network connection.": "Scegli un punto di osservazione, una rilevazione singola della tua posizione o una città scelta tra più di 34.000 salvate offline, e Inner Sign calcola tutto ciò che può da lì, senza connessione di rete.",
-    "Where Antares stands": "Dove si trova Antares",
-    "The bright red heart of Scorpius: above or below your horizon, which direction, and how high.": "Il cuore rosso brillante dello Scorpione: sopra o sotto il tuo orizzonte, in quale direzione e quanto in alto.",
-    "Finding Andromeda": "Trovare Andromeda",
-    "Where M31, our nearest major galactic neighbour, sits in your sky, what it takes to actually see its faint haze, and a direct path to its finding chart in Explore.": "Dove si trova nel tuo cielo M31, la nostra grande vicina galattica più prossima, che cosa serve davvero per vederne il debole chiarore e un percorso diretto alla sua mappa di ricerca in Esplora.",
-    "The age of light": "L’età della luce",
-    "How long the sunlight reaching you has travelled, the full journey of moonlight from Sun to Moon to you, and the roughly 2.5 million years Andromeda’s light has spent reaching you.": "Da quanto tempo viaggia la luce del Sole che ti raggiunge, l’intero viaggio della luce lunare dal Sole alla Luna fino a te, e i circa 2,5 milioni di anni che la luce di Andromeda ha impiegato per arrivare a te.",
-    "Every eclipse of the year": "Tutte le eclissi dell’anno",
-    "Solar and lunar, worldwide, with the ones visible from your viewpoint gathered first.": "Solari e lunari, in tutto il mondo, con quelle visibili dal tuo punto di osservazione raccolte per prime.",
-    "The year’s turning points": "I momenti di svolta dell’anno",
-    "Each primary Moon phase, the equinoxes, and the solstices for the year you choose.": "Ogni fase lunare principale, gli equinozi e i solstizi dell’anno che scegli.",
-    "Explore · follow the connection": "Esplora · segui il legame",
-    "Twenty-one constellations, charted from the sources.": "Ventuno costellazioni, tracciate a partire dalle fonti.",
-    "All thirteen constellations on the Sun’s path, and eight neighbours beyond it—Cetus, Orion, Canis Major, the two Bears, Cassiopeia, Andromeda, and Crux. Each guide is drawn from catalogued star positions inside its official boundary, shows how long each featured star’s light has been travelling, and includes a complete star list for anyone who would rather read than look. Andromeda’s chart also marks the Andromeda Galaxy, M31.": "Tutte le tredici costellazioni sul cammino del Sole e otto vicine più in là: la Balena (Cetus), Orione, il Cane Maggiore, le due Orse, Cassiopea, Andromeda e la Croce del Sud. Ogni guida è tracciata dalle posizioni stellari catalogate entro il suo confine ufficiale, mostra da quanto tempo viaggia la luce di ogni stella presentata e include un elenco completo delle stelle per chi preferisce leggere anziché guardare. La mappa di Andromeda segna anche la Galassia di Andromeda, M31.",
-    "A knowledge map that shows how constellations, events, people, and traditions connect—also available as a plain list.": "Una mappa della conoscenza che mostra come costellazioni, eventi, persone e tradizioni sono collegati, disponibile anche come semplice elenco.",
-    "An interactive Moon lesson: move the Moon around the Earth and watch all eight phases form.": "Una lezione interattiva sulla Luna: muovi la Luna intorno alla Terra e guarda formarsi tutte e otto le fasi.",
-    "The Moon, the seasons, solstices, and equinoxes, each explained and linked to its sources.": "La Luna, le stagioni, i solstizi e gli equinozi, ciascuno spiegato e collegato alle sue fonti.",
-    "Astronomy, history, cultural tradition, astrology, and Inner Sign’s own interpretation, always labelled as which is which.": "Astronomia, storia, tradizione culturale, astrologia e l’interpretazione propria di Inner Sign, sempre etichettate per distinguere l’una dall’altra.",
-    "The sky’s dates, only if you ask.": "Le date del cielo, solo se lo chiedi.",
-    "Set a reminder for a single event, turn on alerts for the year’s Moon phases, seasons, and eclipses, or add the whole year to a separate Inner Sign calendar in Apple Calendar in one step. Adding it twice won’t create duplicates, and Inner Sign never reads your other events.": "Imposta un promemoria per un singolo evento, attiva gli avvisi per le fasi lunari, le stagioni e le eclissi dell’anno, oppure aggiungi l’intero anno in un solo passaggio a un calendario Inner Sign separato nell’app Calendario di Apple. Aggiungerlo due volte non crea duplicati, e Inner Sign non legge mai gli altri tuoi eventi.",
-    "Built for clarity and trust": "Pensato per chiarezza e fiducia",
-    "Nothing hidden. Nothing taken.": "Niente di nascosto. Niente di preso.",
-    "Private by design": "Privato per progettazione",
-    "Your birth date and chosen city stay on your device. A location snapshot is held only for the session—never tracked, never saved. No accounts, no ads, no tracking.": "La tua data di nascita e la città scelta restano sul tuo dispositivo. Una rilevazione della posizione è conservata solo per la sessione: mai tracciata, mai salvata. Niente account, niente pubblicità, niente tracciamento.",
-    "Sources you can inspect": "Fonti che puoi verificare",
-    "Sky calculations and factual pages link to their sources, so you can check them and keep going.": "I calcoli del cielo e le pagine informative rimandano alle loro fonti, così puoi verificarle e andare avanti.",
-    "Made to adapt": "Fatto per adattarsi",
-    "VoiceOver, larger text, increased contrast, Reduce Motion, and readable alternatives to every chart.": "VoiceOver, testo più grande, contrasto aumentato, movimento ridotto e alternative leggibili per ogni mappa del cielo.",
-    "A formula in the open": "Una formula alla luce del sole",
-    "How a reading is built—both lenses, the thirds, the day number, the Chinese zodiac, the Moon—is published and tested.": "Come si costruisce una lettura, con entrambe le prospettive, i terzi, il numero del giorno, lo zodiaco cinese e la Luna, è pubblicato e verificato.",
-    "Read the formula for yourself": "Leggi la formula con i tuoi occhi",
-    "Where Inner Sign stands": "A che punto è Inner Sign",
-    "Inner Sign is in development for iPhone and iPad and is not yet on the App Store. Today, My Sky, and Explore all work now. Every selectable birth date from 1900 through today opens a reading in English. Where a fully written passage isn’t finished yet, a shorter general one stands in while the full library of readings is still being written and reviewed. The app’s own translations into the thirteen other languages this website is published in, and an Android edition, come after.": "Inner Sign è in sviluppo per iPhone e iPad e non è ancora sull’App Store. Oggi, Il mio cielo ed Esplora funzionano già. Ogni data di nascita selezionabile, dal 1900 a oggi, apre una lettura in inglese. Dove un testo scritto per intero non è ancora pronto, ne prende il posto uno generale più breve, mentre l’intera biblioteca delle letture è ancora in fase di scrittura e revisione. Le traduzioni dell’app stessa nelle altre tredici lingue in cui è pubblicato questo sito, e un’edizione per Android, arriveranno in seguito.",
-    "© 2026 Inner Sign by Moving Truth. In development for iPhone and iPad.": "© 2026 Inner Sign di Moving Truth. In sviluppo per iPhone e iPad."
-  },
-  "scriptTranslations": {
-    "Close navigation": "Chiudi la navigazione",
-    "Open navigation": "Apri la navigazione"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-sign.index.text.0001": {
+      "value": "Inner Sign — di Moving Truth",
+      "sourceSha256": "82356b039ba75df9dbd26df9d86e2a47c556d7320d2426e41204321110d2266a"
+    },
+    "inner-sign.index.text.0002": {
+      "value": "Vai al contenuto principale",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-sign.index.text.0003": {
+      "value": "Apri la navigazione",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-sign.index.text.0004": {
+      "value": "Oggi",
+      "sourceSha256": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    "inner-sign.index.text.0005": {
+      "value": "Il mio cielo",
+      "sourceSha256": "e6ce26a3a1ae7daf33bc8899a067e791d7a3984d587865023bef58b892f40376"
+    },
+    "inner-sign.index.text.0006": {
+      "value": "Esplora",
+      "sourceSha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    "inner-sign.index.text.0007": {
+      "value": "Disponibilità",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    "inner-sign.index.text.0008": {
+      "value": "Tutte le app",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-sign.index.text.0009": {
+      "value": "Guarda dentro di te. Guarda in alto. Segui il legame.",
+      "sourceSha256": "54a7b75a7af0a2a48a75b83f0b5be12826ec619cfa37e1a3ae9c75042aa80f5b"
+    },
+    "inner-sign.index.text.0010": {
+      "value": "Partecipa all’accesso anticipato",
+      "sourceSha256": "ad15bb5a7b458a8929f40e30d83a46c78f3927e73890380ef79d3f2b4605ae00"
+    },
+    "inner-sign.index.text.0011": {
+      "value": "Scopri che cosa contiene",
+      "sourceSha256": "f93ebec1351e7cd3bff2df67bad375919e72451b9f355bfc43619fd7be1fbd2c"
+    },
+    "inner-sign.index.text.0012": {
+      "value": "scorri per guardare dentro",
+      "sourceSha256": "b4ed5666c45cf5c0b31b0ba239f822d532b4ec01203722f79f3ad38811950382"
+    },
+    "inner-sign.index.text.0013": {
+      "value": "Una porta, non un verdetto.",
+      "sourceSha256": "0f01da5039850af16d7993a6124906d950da431bcd53ab3fdcb8f9b524b9b1c2"
+    },
+    "inner-sign.index.text.0014": {
+      "value": "Inner Sign riunisce la riflessione personale, il cielo osservabile e la storia umana dell’astronomia in un unico luogo connesso. Offre schemi su cui riflettere, non regole su chi sei o su che cosa debba accadere dopo.",
+      "sourceSha256": "de1e3cfac3b5ab9352d74a1d0de006cba1b031f46dcb6825d6ba44977d7638de"
+    },
+    "inner-sign.index.text.0015": {
+      "value": "La misura viene prima del significato. Ogni filo resta visibile.",
+      "sourceSha256": "2d542cb2a5fbc14df1bf85db7a3b19c128fb782e06ac6d68a8446f7379cef106"
+    },
+    "inner-sign.index.text.0016": {
+      "value": "Oggi",
+      "sourceSha256": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    "inner-sign.index.text.0017": {
+      "value": "Il mio cielo",
+      "sourceSha256": "e6ce26a3a1ae7daf33bc8899a067e791d7a3984d587865023bef58b892f40376"
+    },
+    "inner-sign.index.text.0018": {
+      "value": "Esplora",
+      "sourceSha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    "inner-sign.index.text.0019": {
+      "value": "Il tuo calendario",
+      "sourceSha256": "4606a66e61728dcd2e8219a649faa7eae8047ca3c3cef486c0204ad7730143e6"
+    },
+    "inner-sign.index.text.0020": {
+      "value": "Oggi · guarda dentro di te",
+      "sourceSha256": "145267c6b39670b7feb0dac3d81973d6d9a494e26f751e8e5f197d207083bca6"
+    },
+    "inner-sign.index.text.0021": {
+      "value": "Una lettura che appartiene a te e a questo giorno.",
+      "sourceSha256": "28522294a2ccfcd5bdb5241e333783195b0a68d33d67e47bd9cd450755192844"
+    },
+    "inner-sign.index.text.0022": {
+      "value": "Dai a Inner Sign una data di nascita. Unisce una base personale stabile al carattere mutevole del giorno, in una breve riflessione che puoi accogliere o lasciare.",
+      "sourceSha256": "e7972badc53e2a252d142fca2a17b7aa263aaa5f87693676def3040b43504b08"
+    },
+    "inner-sign.index.text.0023": {
+      "value": "Stabile in te",
+      "sourceSha256": "73995a208209714a30dd1971a834e703a0aa3cb8b83b5cd0907042b7ffd9d322"
+    },
+    "inner-sign.index.text.0024": {
+      "value": "Il tuo segno solare e il suo terzo di Inner Sign, il tuo animale dello zodiaco cinese e il suo elemento.",
+      "sourceSha256": "caac4d69264f9695061d5dadde53148e5d1e601008aa42c040a1181cf534e8f5"
+    },
+    "inner-sign.index.text.0025": {
+      "value": "Vivo nel giorno",
+      "sourceSha256": "bad119a91869f70e1f7487b9ac30935a2c2a9870602e6e898a95f5612133ee3c"
+    },
+    "inner-sign.index.text.0026": {
+      "value": "Il numero universale del giorno, con il calcolo in vista, e la fase attuale della Luna.",
+      "sourceSha256": "f2d0e8be9cbcff920ef96956ba445b598ae6f4128e12e1b5fa1523187f7968c7"
+    },
+    "inner-sign.index.text.0027": {
+      "value": "Nuovo, non casuale",
+      "sourceSha256": "cc6b4ed3452bc23865e0b08caf301cf42162fda095faf510e175a2bb4f8103ca"
+    },
+    "inner-sign.index.text.0028": {
+      "value": "La stessa data di nascita nello stesso giorno restituisce sempre la stessa lettura.",
+      "sourceSha256": "4079908bee1e063482b7f98e3452164e47f0a3b98f7cfd9ef3e11e11ea41cd31"
+    },
+    "inner-sign.index.text.0029": {
+      "value": "Ogni parte porta più lontano",
+      "sourceSha256": "2f3324b27006cebca46b756fc09c865e99c055b4323b374dede3e44e209923b1"
+    },
+    "inner-sign.index.text.0030": {
+      "value": "Tocca un segno, un animale, il numero del giorno o la Luna per aprire una spiegazione più completa. Ogni risultato di segno e di costellazione e tutte e otto le fasi lunari proseguono in una pagina di Esplora con fonti; le pagine con fonti dedicate agli animali dello zodiaco cinese e ai numeri del giorno sono ancora in fase di aggiunta.",
+      "sourceSha256": "459c544c72fe1e0e1b6e0acc4b854dca2d03cbd554e548de6e31cde63495dd8e"
+    },
+    "inner-sign.index.text.0031": {
+      "value": "Due modi di leggere il cielo",
+      "sourceSha256": "4a1d4c11d3358a8c96d71d58842dc559ed31e741e8141d6ff0c0d48693483f4f"
+    },
+    "inner-sign.index.text.0032": {
+      "value": "Tradizionale 12. Astronomico 13.",
+      "sourceSha256": "0b2c207148cd0ee5db582954b8b53ac52fac33dd0fcbbc545bb35d5b30f62e74"
+    },
+    "inner-sign.index.text.0033": {
+      "value": "Leggi il tuo segno attraverso il familiare zodiaco a dodici segni, oppure attraverso le tredici costellazioni che il Sole attraversa davvero, Ofiuco compreso. Cambia prospettiva in qualsiasi lettura e guarda che cosa cambia per il tuo compleanno. Cambia solo il segno; il resto della lettura resta fermo.",
+      "sourceSha256": "a684eccb872b4b064718585f21a53aeb11cba1d23975702de09b93b8a0a29f5f"
+    },
+    "inner-sign.index.text.0034": {
+      "value": "Nessuna delle due prospettive è presentata come l’unica verità dimostrata. La curiosità è il cuore di tutto.",
+      "sourceSha256": "b02a43ea08c363c47d581567167720629ac40624441e34ae91787ff492bf5b11"
+    },
+    "inner-sign.index.text.0035": {
+      "value": "Il mio cielo · guarda in alto",
+      "sourceSha256": "c1c42d0e4aff568c031c4be1d3f3f16fd32bd830a536e86898a6985eb6236dc3"
+    },
+    "inner-sign.index.text.0036": {
+      "value": "Il cielo sopra di te, calcolato sul tuo dispositivo.",
+      "sourceSha256": "358f18e5410526773366daa27113bf7da599f128f2b15773db447ade216cbee7"
+    },
+    "inner-sign.index.text.0037": {
+      "value": "Scegli un punto di osservazione, una rilevazione singola della tua posizione o una città scelta tra più di 34.000 salvate offline, e Inner Sign calcola tutto ciò che può da lì, senza connessione di rete.",
+      "sourceSha256": "1556f7fa990176b8b98da0814d840f644f2e36de224863b535b5166a83fefc6e"
+    },
+    "inner-sign.index.text.0038": {
+      "value": "Dove si trova Antares",
+      "sourceSha256": "7861ca31e0df03f9dea924b292c2edf7538f5b291bf9c3d403ebc499a46ab910"
+    },
+    "inner-sign.index.text.0039": {
+      "value": "Il cuore rosso brillante dello Scorpione: sopra o sotto il tuo orizzonte, in quale direzione e quanto in alto.",
+      "sourceSha256": "9d5049b3acc141d191dfbcb04b7eaf9e86d7f6e2ca825ae118405f542049d350"
+    },
+    "inner-sign.index.text.0040": {
+      "value": "Trovare Andromeda",
+      "sourceSha256": "39359de9822211aae5e6795f7dcc1770bc6d3f9cc33664779d4b29ae3a1f90a1"
+    },
+    "inner-sign.index.text.0041": {
+      "value": "Dove si trova nel tuo cielo M31, la nostra grande vicina galattica più prossima, che cosa serve davvero per vederne il debole chiarore e un percorso diretto alla sua mappa di ricerca in Esplora.",
+      "sourceSha256": "bc53d42546de1c67577a7acf8c1a43e56cbd570b8e756c9bb5cacd8596c955f0"
+    },
+    "inner-sign.index.text.0042": {
+      "value": "L’età della luce",
+      "sourceSha256": "87b22d2c9f0603f238d13168b8f6b5c80352d029148002bc76ec95b4fa95b25d"
+    },
+    "inner-sign.index.text.0043": {
+      "value": "Da quanto tempo viaggia la luce del Sole che ti raggiunge, l’intero viaggio della luce lunare dal Sole alla Luna fino a te, e i circa 2,5 milioni di anni che la luce di Andromeda ha impiegato per arrivare a te.",
+      "sourceSha256": "5aeca9ba02bf47e787160da520a924a323ebcd43286f6f1b5066120cbb9af82e"
+    },
+    "inner-sign.index.text.0044": {
+      "value": "Tutte le eclissi dell’anno",
+      "sourceSha256": "42342bb1fa8b7e86c33764241ebdace5e8cb308b7c64080e193658433598d456"
+    },
+    "inner-sign.index.text.0045": {
+      "value": "Solari e lunari, in tutto il mondo, con quelle visibili dal tuo punto di osservazione raccolte per prime.",
+      "sourceSha256": "472ef0a0ad36e18ec141091313b9ceeaf9e2123c4fb05f37586368983d4718e6"
+    },
+    "inner-sign.index.text.0046": {
+      "value": "I momenti di svolta dell’anno",
+      "sourceSha256": "e24b96dbbe2e7a23885e3a1aeef2435e36802d822d1bb2ba62107d6633c12973"
+    },
+    "inner-sign.index.text.0047": {
+      "value": "Ogni fase lunare principale, gli equinozi e i solstizi dell’anno che scegli.",
+      "sourceSha256": "b05fd097f4af5332979907abf91d9adaf4ec437c385e0770fa7a04e052b59dbd"
+    },
+    "inner-sign.index.text.0048": {
+      "value": "Esplora · segui il legame",
+      "sourceSha256": "35f509fb93d61ae3753bbc2a462215e4c53a6492a1099454b1bb061d552d52ed"
+    },
+    "inner-sign.index.text.0049": {
+      "value": "Ventuno costellazioni, tracciate a partire dalle fonti.",
+      "sourceSha256": "0abc2e9b9fc9200999ffee4a36ccf620781947ca6a4755a3239b3e713fbb87ca"
+    },
+    "inner-sign.index.text.0050": {
+      "value": "Tutte le tredici costellazioni sul cammino del Sole e otto vicine più in là: la Balena (Cetus), Orione, il Cane Maggiore, le due Orse, Cassiopea, Andromeda e la Croce del Sud. Ogni guida è tracciata dalle posizioni stellari catalogate entro il suo confine ufficiale, mostra da quanto tempo viaggia la luce di ogni stella presentata e include un elenco completo delle stelle per chi preferisce leggere anziché guardare. La mappa di Andromeda segna anche la Galassia di Andromeda, M31.",
+      "sourceSha256": "c23d19d029c1ccc0123b331df298e3166873e82912c78e8cefda1e392eaaba2a"
+    },
+    "inner-sign.index.text.0051": {
+      "value": "Una mappa della conoscenza che mostra come costellazioni, eventi, persone e tradizioni sono collegati, disponibile anche come semplice elenco.",
+      "sourceSha256": "607ad3d175555a421388a389884887e9b646eec247726c962493fec18b55e198"
+    },
+    "inner-sign.index.text.0052": {
+      "value": "Una lezione interattiva sulla Luna: muovi la Luna intorno alla Terra e guarda formarsi tutte e otto le fasi.",
+      "sourceSha256": "fcc54b4e66863b8d0bd2a992ed165feb50da726eea050c6911635f45e4434d09"
+    },
+    "inner-sign.index.text.0053": {
+      "value": "La Luna, le stagioni, i solstizi e gli equinozi, ciascuno spiegato e collegato alle sue fonti.",
+      "sourceSha256": "e1cd4318fd117ce3c06c5fd6e159440bfb60ba0748f1fa5a451cf3696a45ea73"
+    },
+    "inner-sign.index.text.0054": {
+      "value": "Astronomia, storia, tradizione culturale, astrologia e l’interpretazione propria di Inner Sign, sempre etichettate per distinguere l’una dall’altra.",
+      "sourceSha256": "b0c066bb13b0ea66c3c6dff1ef49d6e130a729b98d98258bbc556d6a17fdfa4f"
+    },
+    "inner-sign.index.text.0055": {
+      "value": "Il tuo calendario",
+      "sourceSha256": "4606a66e61728dcd2e8219a649faa7eae8047ca3c3cef486c0204ad7730143e6"
+    },
+    "inner-sign.index.text.0056": {
+      "value": "Le date del cielo, solo se lo chiedi.",
+      "sourceSha256": "9438104218dada8cabae36353ecbfb5f52088292cdeee0943879132d3fc14e8d"
+    },
+    "inner-sign.index.text.0057": {
+      "value": "Imposta un promemoria per un singolo evento, attiva gli avvisi per le fasi lunari, le stagioni e le eclissi dell’anno, oppure aggiungi l’intero anno in un solo passaggio a un calendario Inner Sign separato nell’app Calendario di Apple. Aggiungerlo due volte non crea duplicati, e Inner Sign non legge mai gli altri tuoi eventi.",
+      "sourceSha256": "af6d3d08ac3aa6ec85c7336609bf08d4c4ad36af1fcbb1d850b1c6f8b2236386"
+    },
+    "inner-sign.index.text.0058": {
+      "value": "Pensato per chiarezza e fiducia",
+      "sourceSha256": "53fdee2c427c8c5121dd16b6760bbc0e1f7cff564f188d96c28f1cc9d40ef3d0"
+    },
+    "inner-sign.index.text.0059": {
+      "value": "Niente di nascosto. Niente di preso.",
+      "sourceSha256": "0b1ffd4721a1989fc9ccb201325972e7983a69e85fc9baa7d03295aaa0322059"
+    },
+    "inner-sign.index.text.0060": {
+      "value": "Privato per progettazione",
+      "sourceSha256": "485ca594ccc9003ba4908cc7f0024a92ce2a89f2e3e49fb4acbc61770eff6580"
+    },
+    "inner-sign.index.text.0061": {
+      "value": "La tua data di nascita e la città scelta restano sul tuo dispositivo. Una rilevazione della posizione è conservata solo per la sessione: mai tracciata, mai salvata. Niente account, niente pubblicità, niente tracciamento.",
+      "sourceSha256": "2ad537b12802e373efb0b137771a1a841fa609b82f491c3a1254d8d5d7b64f81"
+    },
+    "inner-sign.index.text.0062": {
+      "value": "Fonti che puoi verificare",
+      "sourceSha256": "ef9757a37a74284f08da0f0001bb5f03672cbc9be75e524743f08d62129f5e43"
+    },
+    "inner-sign.index.text.0063": {
+      "value": "I calcoli del cielo e le pagine informative rimandano alle loro fonti, così puoi verificarle e andare avanti.",
+      "sourceSha256": "5d769961791513ecbc5a31217b6ad1da78787d251068841072f8e7b45ef77354"
+    },
+    "inner-sign.index.text.0064": {
+      "value": "Fatto per adattarsi",
+      "sourceSha256": "e6bd2b61b5a2802604d3c4b17ad33e1f83b025c657dd31e296b043c5129c199c"
+    },
+    "inner-sign.index.text.0065": {
+      "value": "VoiceOver, testo più grande, contrasto aumentato, movimento ridotto e alternative leggibili per ogni mappa del cielo.",
+      "sourceSha256": "4ce09bdcaf7bb01a756adaa696604eef158bc48638625f8c868b3aaffde9234b"
+    },
+    "inner-sign.index.text.0066": {
+      "value": "Una formula alla luce del sole",
+      "sourceSha256": "435874d5b03742f970cd81dcc0436e6da23b183adf79925f7097da2855ff7577"
+    },
+    "inner-sign.index.text.0067": {
+      "value": "Come si costruisce una lettura, con entrambe le prospettive, i terzi, il numero del giorno, lo zodiaco cinese e la Luna, è pubblicato e verificato.",
+      "sourceSha256": "088db018f9167688d26a22c37d6743ea78664a8e7a71dfb905b5c821972fc489"
+    },
+    "inner-sign.index.text.0068": {
+      "value": "Leggi la formula con i tuoi occhi",
+      "sourceSha256": "e76932ff254ef186abc14244ea46dc42897781581fe75d9c46ef92999ac31897"
+    },
+    "inner-sign.index.text.0069": {
+      "value": "Un’intenzione per Inner Sign",
+      "sourceSha256": "f3cb50e5793d4c150eabc4579c6e97535ca09a1261e0d262c7eb4eae8979039e"
+    },
+    "inner-sign.index.text.0070": {
+      "value": "Che ogni prospettiva allarghi la curiosità senza restringere la verità.",
+      "sourceSha256": "ee9b78afca463289cd09058120d4fafa0788f3ff922de62a8230a925670359ea"
+    },
+    "inner-sign.index.text.0071": {
+      "value": "Che i sistemi antichi siano trattati con rispetto.",
+      "sourceSha256": "f1d36704784ae8a14feba8c9ade5a06bd36fc4e0da6d8e03a45ca5fd837ba6b4"
+    },
+    "inner-sign.index.text.0072": {
+      "value": "Che la lettura riporti con dolcezza ogni persona al proprio sapere.",
+      "sourceSha256": "c419ec779053072bd232db8a2eb79c51a2b4e541b63ca05672b9e350e85074ad"
+    },
+    "inner-sign.index.text.0073": {
+      "value": "di Moving Truth",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-sign.index.text.0074": {
+      "value": "Creato con amore da Skylaur Roe",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    "inner-sign.index.text.0075": {
+      "value": "Scopri tutte le app Moving Truth",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-sign.index.text.0076": {
+      "value": "A che punto è Inner Sign",
+      "sourceSha256": "6960e43950f6e7036dafd45aef73ad26ff9462c5303e094806f4fc8ae43b674e"
+    },
+    "inner-sign.index.text.0077": {
+      "value": "Il tuo posto nel disegno.",
+      "sourceSha256": "930fb711cc36065c557ae1eff4121f7daff878ac1d2a68145e326db0c14dd8a8"
+    },
+    "inner-sign.index.text.0078": {
+      "value": "Inner Sign è in sviluppo per iPhone e iPad e non è ancora sull’App Store. Oggi, Il mio cielo ed Esplora funzionano già. Ogni data di nascita selezionabile, dal 1900 a oggi, apre una lettura in inglese. Dove un testo scritto per intero non è ancora pronto, ne prende il posto uno generale più breve, mentre l’intera biblioteca delle letture è ancora in fase di scrittura e revisione. Le traduzioni dell’app stessa nelle altre tredici lingue in cui è pubblicato questo sito, e un’edizione per Android, arriveranno in seguito.",
+      "sourceSha256": "38d19027efb46baf3cf5696e89d9f999eb184951076f4154e485a477d369e6ff"
+    },
+    "inner-sign.index.text.0079": {
+      "value": "Partecipa all’accesso anticipato di Inner Sign",
+      "sourceSha256": "537102624fffc160501fcd9c0b91a3a1a43f08bcf5b3ffded1a8894c97e9b83c"
+    },
+    "inner-sign.index.text.0080": {
+      "value": "Oggi",
+      "sourceSha256": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    "inner-sign.index.text.0081": {
+      "value": "Il mio cielo",
+      "sourceSha256": "e6ce26a3a1ae7daf33bc8899a067e791d7a3984d587865023bef58b892f40376"
+    },
+    "inner-sign.index.text.0082": {
+      "value": "Esplora",
+      "sourceSha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    "inner-sign.index.text.0083": {
+      "value": "Assistenza",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-sign.index.text.0084": {
+      "value": "Tutte le app",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-sign.index.text.0085": {
+      "value": "© 2026 Inner Sign di Moving Truth. In sviluppo per iPhone e iPad.",
+      "sourceSha256": "14228bf6366e2fcda27811e6e70c227852456cd84147cf9acd8b43bbdd2aa715"
+    },
+    "inner-sign.index.attribute.0001": {
+      "value": "Inner Sign riunisce una riflessione quotidiana personale, il cielo reale sopra di te e un atlante delle costellazioni con fonti in un’unica app privata. In sviluppo per iPhone e iPad.",
+      "sourceSha256": "d87b81f26ab38dff6885b9e3a0845cc139c2544df4a272776e38d7a6700d67f3"
+    },
+    "inner-sign.index.attribute.0002": {
+      "value": "Inner Sign — di Moving Truth",
+      "sourceSha256": "82356b039ba75df9dbd26df9d86e2a47c556d7320d2426e41204321110d2266a"
+    },
+    "inner-sign.index.attribute.0003": {
+      "value": "Guarda dentro di te. Guarda in alto. Segui il legame.",
+      "sourceSha256": "54a7b75a7af0a2a48a75b83f0b5be12826ec619cfa37e1a3ae9c75042aa80f5b"
+    },
+    "inner-sign.index.attribute.0004": {
+      "value": "Pagina iniziale di Inner Sign",
+      "sourceSha256": "ef12ad1504de535019d244e1516c1c43e17cb56367c446d6d68d226f4106d9d5"
+    },
+    "inner-sign.index.attribute.0005": {
+      "value": "Navigazione principale",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-sign.index.attribute.0006": {
+      "value": "Icona di Inner Sign: quattro simboli elementali dorati attorno a una spirale centrale su fondo scuro",
+      "sourceSha256": "ae431171ba530a6d0884be323a249b1504a2a43eafc99d97332b6d002bd39cc4"
+    },
+    "inner-sign.index.attribute.0007": {
+      "value": "Che cosa contiene Inner Sign",
+      "sourceSha256": "bf27b6d3aa5531f30f0dd7ba3f3a31bc291f3a3278f780f8309de486380069b7"
+    },
+    "inner-sign.index.attribute.0008": {
+      "value": "Informazioni su Moving Truth",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-sign.index.attribute.0009": {
+      "value": "Moving Truth. Apre movingtruth.com",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-sign.index.attribute.0010": {
+      "value": "Logo di Moving Truth",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-sign.index.attribute.0011": {
+      "value": "Navigazione a piè di pagina",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-sign.index.script.0001": {
+      "value": "Apri la navigazione",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-sign.site-js.script.0001": {
+      "value": "Chiudi la navigazione",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    "inner-sign.site-js.script.0002": {
+      "value": "Apri la navigazione",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    }
   }
 }

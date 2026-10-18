@@ -1,94 +1,401 @@
 {
-  "translations": {
-    "Inner Sign — by Moving Truth": "Inner Sign — โดย Moving Truth",
-    "Skip to main content": "ข้ามไปยังเนื้อหาหลัก",
-    "Inner Sign home": "หน้าหลัก Inner Sign",
-    "Open navigation": "เปิดเมนูนำทาง",
-    "Main navigation": "เมนูนำทางหลัก",
-    "Availability": "การวางจำหน่าย",
-    "All apps": "แอปทั้งหมด",
-    "Inner Sign app icon: four golden elemental symbols surrounding a central spiral on a dark field": "ไอคอน Inner Sign: สัญลักษณ์ธาตุสีทองสี่แบบล้อมเกลียวกลางบนพื้นมืด",
-    "scroll to look within": "เลื่อนเพื่อมองเข้าไปข้างใน",
-    "A reading that belongs to you and this day.": "การอ่านที่เป็นของคุณและวันนี้",
-    "Stable in you": "สิ่งที่มั่นคงในตัวคุณ",
-    "Alive in the day": "สิ่งที่มีชีวิตในวันนี้",
-    "Fresh, not random": "สดใหม่ ไม่ใช่สุ่ม",
-    "An intention for Inner Sign": "เจตนาสำหรับ Inner Sign",
-    "May every lens widen curiosity without narrowing truth.": "ขอให้ทุกมุมมองขยายความใคร่รู้โดยไม่ทำให้ความจริงแคบลง",
-    "May the old systems be treated with respect.": "ขอให้ศาสตร์เก่าแก่ได้รับการปฏิบัติด้วยความเคารพ",
-    "May the reading return each person gently to their own knowing.": "ขอให้การอ่านพาแต่ละคนกลับสู่ความรู้ภายในของตนอย่างอ่อนโยน",
-    "About Moving Truth": "เกี่ยวกับ Moving Truth",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth เปิด movingtruth.com",
-    "Moving Truth logo": "โลโก้ Moving Truth",
-    "by Moving Truth": "โดย Moving Truth",
-    "Made with love by Skylaur Roe": "สร้างด้วยความรักโดย Skylaur Roe",
-    "Explore all Moving Truth apps": "สำรวจแอป Moving Truth ทั้งหมด",
-    "Your place in the pattern.": "ตำแหน่งของคุณในแบบแผน",
-    "Footer navigation": "เมนูนำทางส่วนท้าย",
-    "Support": "ฝ่ายช่วยเหลือ",
-    "Join early access": "เข้าร่วมการเข้าถึงล่วงหน้า",
-    "Join Inner Sign Early Access": "เข้าร่วมการเข้าถึง Inner Sign ล่วงหน้า",
-    "Inner Sign brings a personal daily reflection, the real sky above you, and a sourced atlas of the constellations into one private app. In development for iPhone and iPad.": "Inner Sign รวมการใคร่ครวญประจำวันส่วนตัว ท้องฟ้าจริงเหนือศีรษะคุณ และแผนที่กลุ่มดาวที่ระบุแหล่งที่มา ไว้ในแอปส่วนตัวเพียงแอปเดียว กำลังพัฒนาสำหรับ iPhone และ iPad",
-    "Look inward. Look upward. Follow the connection.": "มองเข้าข้างใน มองขึ้นข้างบน ตามรอยความเชื่อมโยง",
-    "Today": "วันนี้",
-    "My Sky": "ท้องฟ้าของฉัน",
-    "Explore": "สำรวจ",
-    "See what’s inside": "ดูว่ามีอะไรอยู่ข้างใน",
-    "A doorway, not a verdict.": "ประตูบานหนึ่ง ไม่ใช่คำตัดสิน",
-    "Inner Sign brings personal reflection, the observable sky, and the human story of astronomy into one connected place. It offers patterns to consider—not rules about who you are or what must happen next.": "Inner Sign นำการใคร่ครวญส่วนตัว ท้องฟ้าที่สังเกตได้ และเรื่องราวของมนุษย์กับดาราศาสตร์ มารวมไว้ในที่เดียวที่เชื่อมโยงกัน แอปเสนอแบบแผนให้ลองพิจารณา ไม่ใช่กฎว่าคุณเป็นใครหรือสิ่งใดต้องเกิดขึ้นต่อไป",
-    "Measurement comes before meaning. Every thread stays visible.": "การวัดมาก่อนความหมาย ทุกเส้นด้ายยังมองเห็นได้",
-    "What Inner Sign holds": "สิ่งที่อยู่ใน Inner Sign",
-    "Your Calendar": "ปฏิทินของคุณ",
-    "Today · look inward": "วันนี้ · มองเข้าข้างใน",
-    "Give Inner Sign one birth date. It meets a stable personal foundation with the changing character of the day, in a short reflection you can take or leave.": "บอกวันเกิดหนึ่งวันแก่ Inner Sign แล้วแอปจะนำรากฐานส่วนตัวที่มั่นคงมาพบกับลักษณะของวันที่เปลี่ยนไปเรื่อย ๆ ในข้อความใคร่ครวญสั้น ๆ ที่คุณจะรับไว้หรือปล่อยผ่านก็ได้",
-    "Your sun sign and its Inner Sign third, your Chinese zodiac animal, and its element.": "ราศีอาทิตย์ของคุณและส่วนที่สามของ Inner Sign ในราศีนั้น สัตว์ประจำนักษัตรจีนของคุณและธาตุของมัน",
-    "The Universal Day Number, with its arithmetic shown, and the Moon’s current phase.": "เลขสากลประจำวันพร้อมแสดงวิธีคำนวณ และระยะดวงจันทร์ปัจจุบัน",
-    "The same birth date on the same day always returns the same reading.": "วันเกิดเดียวกันในวันเดียวกันจะให้การอ่านเดียวกันเสมอ",
-    "Every part opens further": "ทุกส่วนเปิดลึกลงไปได้อีก",
-    "Tap a sign, an animal, the day number, or the Moon to open a fuller explanation. Every sign and constellation result and all eight Moon phases continue into a sourced Explore page; sourced pages for the Chinese zodiac animals and the day numbers are still being added.": "แตะราศี สัตว์ประจำนักษัตร เลขประจำวัน หรือดวงจันทร์ เพื่อเปิดคำอธิบายที่ละเอียดขึ้น ผลลัพธ์ของทุกราศีและกลุ่มดาว และข้างขึ้นข้างแรมทั้งแปดระยะ ต่อไปยังหน้าสำรวจที่ระบุแหล่งที่มา ส่วนหน้าที่ระบุแหล่งที่มาของสัตว์นักษัตรจีนและเลขประจำวันยังอยู่ระหว่างการเพิ่ม",
-    "Two ways to read the sky": "สองวิธีในการอ่านท้องฟ้า",
-    "Traditional 12. Astronomical 13.": "แบบดั้งเดิม 12 แบบดาราศาสตร์ 13",
-    "Read your sign through the familiar twelve-sign zodiac, or through the thirteen constellations the Sun actually crosses—Ophiuchus included. Switch lenses inside any reading and see what changes for your birthday. Only the sign changes; the rest of the reading holds still.": "อ่านราศีของคุณผ่านจักรราศีสิบสองราศีที่คุ้นเคย หรือผ่านกลุ่มดาวสิบสามกลุ่มที่ดวงอาทิตย์โคจรผ่านจริง รวมถึงกลุ่มดาวคนแบกงู (โอฟีอูคัส) สลับมุมมองได้ในทุกการอ่าน แล้วดูว่าอะไรเปลี่ยนไปสำหรับวันเกิดของคุณ มีเพียงราศีที่เปลี่ยน ส่วนที่เหลือของการอ่านยังคงเดิม",
-    "Neither lens is presented as the single proven truth. Curiosity is the feature.": "ไม่มีมุมมองใดถูกนำเสนอว่าเป็นความจริงหนึ่งเดียวที่พิสูจน์แล้ว หัวใจสำคัญคือความอยากรู้",
-    "My Sky · look upward": "ท้องฟ้าของฉัน · มองขึ้นข้างบน",
-    "The sky above you, calculated on your device.": "ท้องฟ้าเหนือศีรษะคุณ คำนวณบนอุปกรณ์ของคุณ",
-    "Choose a viewpoint—a single location snapshot, or a city picked from more than 34,000 stored offline—and Inner Sign works out what it can from there, without a network connection.": "เลือกจุดสังเกต ไม่ว่าจะเป็นภาพตำแหน่งที่บันทึกครั้งเดียว หรือเมืองหนึ่งจากกว่า 34,000 เมืองที่เก็บไว้แบบออฟไลน์ แล้ว Inner Sign จะคำนวณทุกอย่างที่ทำได้จากตรงนั้นโดยไม่ต้องเชื่อมต่อเครือข่าย",
-    "Where Antares stands": "ดาวแอนทาเรสอยู่ที่ใด",
-    "The bright red heart of Scorpius: above or below your horizon, which direction, and how high.": "หัวใจสีแดงสว่างของกลุ่มดาวแมงป่อง: อยู่เหนือหรือใต้ขอบฟ้าของคุณ ทิศใด และสูงเพียงใด",
-    "Finding Andromeda": "ตามหาแอนดรอมิดา",
-    "Where M31, our nearest major galactic neighbour, sits in your sky, what it takes to actually see its faint haze, and a direct path to its finding chart in Explore.": "M31 เพื่อนบ้านดาราจักรขนาดใหญ่ที่ใกล้เราที่สุด อยู่ตรงไหนบนท้องฟ้าของคุณ ต้องมีอะไรบ้างจึงจะมองเห็นแสงฝ้าจาง ๆ ของมันได้จริง และทางลัดไปยังแผนที่ค้นหาของมันในส่วนสำรวจ",
-    "The age of light": "อายุของแสง",
-    "How long the sunlight reaching you has travelled, the full journey of moonlight from Sun to Moon to you, and the roughly 2.5 million years Andromeda’s light has spent reaching you.": "แสงอาทิตย์ที่มาถึงคุณเดินทางมานานเท่าใด การเดินทางทั้งหมดของแสงจันทร์จากดวงอาทิตย์สู่ดวงจันทร์แล้วมาถึงคุณ และราว 2.5 ล้านปีที่แสงจากแอนดรอมิดาใช้เดินทางมาถึงคุณ",
-    "Every eclipse of the year": "สุริยุปราคาและจันทรุปราคาทุกครั้งในรอบปี",
-    "Solar and lunar, worldwide, with the ones visible from your viewpoint gathered first.": "ทั้งสุริยุปราคาและจันทรุปราคาทั่วโลก โดยรวบรวมครั้งที่มองเห็นได้จากจุดสังเกตของคุณไว้ก่อน",
-    "The year’s turning points": "จุดเปลี่ยนของปี",
-    "Each primary Moon phase, the equinoxes, and the solstices for the year you choose.": "ข้างขึ้นข้างแรมหลักทุกระยะ วันวิษุวัต และวันอายัน ของปีที่คุณเลือก",
-    "Explore · follow the connection": "สำรวจ · ตามรอยความเชื่อมโยง",
-    "Twenty-one constellations, charted from the sources.": "กลุ่มดาวยี่สิบเอ็ดกลุ่ม วาดแผนที่จากแหล่งที่มา",
-    "All thirteen constellations on the Sun’s path, and eight neighbours beyond it—Cetus, Orion, Canis Major, the two Bears, Cassiopeia, Andromeda, and Crux. Each guide is drawn from catalogued star positions inside its official boundary, shows how long each featured star’s light has been travelling, and includes a complete star list for anyone who would rather read than look. Andromeda’s chart also marks the Andromeda Galaxy, M31.": "กลุ่มดาวทั้งสิบสามกลุ่มบนเส้นทางของดวงอาทิตย์ และเพื่อนบ้านอีกแปดกลุ่มที่อยู่ไกลออกไป ได้แก่ กลุ่มดาววาฬ (ซีตัส) กลุ่มดาวนายพราน กลุ่มดาวสุนัขใหญ่ กลุ่มดาวหมีทั้งสอง กลุ่มดาวแคสซิโอเปีย กลุ่มดาวแอนดรอมิดา และกลุ่มดาวกางเขนใต้ คู่มือแต่ละฉบับวาดจากตำแหน่งดาวที่บันทึกในบัญชีดาวภายในขอบเขตทางการของกลุ่มดาวนั้น แสดงว่าแสงของดาวเด่นแต่ละดวงเดินทางมานานเท่าใด และมีรายชื่อดาวครบถ้วนสำหรับผู้ที่อยากอ่านมากกว่าดู แผนที่ของกลุ่มดาวแอนดรอมิดายังระบุดาราจักรแอนดรอมิดา M31 ด้วย",
-    "A knowledge map that shows how constellations, events, people, and traditions connect—also available as a plain list.": "แผนที่ความรู้ที่แสดงว่ากลุ่มดาว เหตุการณ์ ผู้คน และขนบธรรมเนียมเชื่อมโยงกันอย่างไร และยังดูเป็นรายการธรรมดาได้ด้วย",
-    "An interactive Moon lesson: move the Moon around the Earth and watch all eight phases form.": "บทเรียนดวงจันทร์แบบโต้ตอบ: เลื่อนดวงจันทร์ไปรอบโลก แล้วดูการเกิดของข้างขึ้นข้างแรมทั้งแปดระยะ",
-    "The Moon, the seasons, solstices, and equinoxes, each explained and linked to its sources.": "ดวงจันทร์ ฤดูกาล วันอายัน และวันวิษุวัต แต่ละเรื่องมีคำอธิบายและลิงก์ไปยังแหล่งที่มา",
-    "Astronomy, history, cultural tradition, astrology, and Inner Sign’s own interpretation, always labelled as which is which.": "ดาราศาสตร์ ประวัติศาสตร์ ขนบธรรมเนียมทางวัฒนธรรม โหราศาสตร์ และการตีความของ Inner Sign เอง โดยติดป้ายบอกเสมอว่าส่วนใดเป็นอะไร",
-    "The sky’s dates, only if you ask.": "วันสำคัญของท้องฟ้า เฉพาะเมื่อคุณต้องการ",
-    "Set a reminder for a single event, turn on alerts for the year’s Moon phases, seasons, and eclipses, or add the whole year to a separate Inner Sign calendar in Apple Calendar in one step. Adding it twice won’t create duplicates, and Inner Sign never reads your other events.": "ตั้งการเตือนสำหรับเหตุการณ์เดียว เปิดการแจ้งเตือนข้างขึ้นข้างแรม ฤดูกาล และอุปราคาของปี หรือเพิ่มทั้งปีลงในปฏิทิน Inner Sign ที่แยกต่างหากในแอปปฏิทินของ Apple ได้ในขั้นตอนเดียว การเพิ่มซ้ำจะไม่สร้างรายการซ้ำ และ Inner Sign ไม่เคยอ่านกิจกรรมอื่นของคุณ",
-    "Built for clarity and trust": "สร้างเพื่อความชัดเจนและความไว้วางใจ",
-    "Nothing hidden. Nothing taken.": "ไม่ซ่อนสิ่งใด ไม่เอาสิ่งใดไป",
-    "Private by design": "เป็นส่วนตัวตั้งแต่การออกแบบ",
-    "Your birth date and chosen city stay on your device. A location snapshot is held only for the session—never tracked, never saved. No accounts, no ads, no tracking.": "วันเกิดและเมืองที่คุณเลือกจะอยู่บนอุปกรณ์ของคุณเท่านั้น ภาพตำแหน่งจะถูกเก็บไว้เฉพาะระหว่างเซสชัน ไม่มีการติดตาม ไม่มีการบันทึก ไม่มีบัญชี ไม่มีโฆษณา ไม่มีการติดตาม",
-    "Sources you can inspect": "แหล่งที่มาที่คุณตรวจสอบได้",
-    "Sky calculations and factual pages link to their sources, so you can check them and keep going.": "การคำนวณท้องฟ้าและหน้าข้อเท็จจริงลิงก์ไปยังแหล่งที่มา เพื่อให้คุณตรวจสอบและศึกษาต่อได้",
-    "Made to adapt": "ออกแบบให้ปรับเข้ากับคุณ",
-    "VoiceOver, larger text, increased contrast, Reduce Motion, and readable alternatives to every chart.": "VoiceOver ข้อความขนาดใหญ่ขึ้น ความต่างของสีที่เพิ่มขึ้น การลดการเคลื่อนไหว และทางเลือกแบบอ่านได้สำหรับทุกแผนภาพ",
-    "A formula in the open": "สูตรที่เปิดเผย",
-    "How a reading is built—both lenses, the thirds, the day number, the Chinese zodiac, the Moon—is published and tested.": "วิธีสร้างการอ่านแต่ละครั้ง ทั้งสองมุมมอง ส่วนที่สาม เลขประจำวัน นักษัตรจีน และดวงจันทร์ ได้รับการเผยแพร่และทดสอบแล้ว",
-    "Read the formula for yourself": "อ่านสูตรด้วยตัวคุณเอง",
-    "Where Inner Sign stands": "Inner Sign อยู่ในขั้นใด",
-    "Inner Sign is in development for iPhone and iPad and is not yet on the App Store. Today, My Sky, and Explore all work now. Every selectable birth date from 1900 through today opens a reading in English. Where a fully written passage isn’t finished yet, a shorter general one stands in while the full library of readings is still being written and reviewed. The app’s own translations into the thirteen other languages this website is published in, and an Android edition, come after.": "Inner Sign กำลังพัฒนาสำหรับ iPhone และ iPad และยังไม่มีใน App Store ส่วนวันนี้ ท้องฟ้าของฉัน และสำรวจ ใช้งานได้แล้วทั้งหมด วันเกิดทุกวันที่เลือกได้ ตั้งแต่ปี 1900 จนถึงวันนี้ จะเปิดการอ่านเป็นภาษาอังกฤษ ในส่วนที่ข้อความฉบับเต็มยังเขียนไม่เสร็จ จะมีข้อความทั่วไปที่สั้นกว่ามาแทนที่ ระหว่างที่คลังการอ่านฉบับสมบูรณ์ยังอยู่ระหว่างการเขียนและการตรวจทาน การแปลตัวแอปเองเป็นภาษาอื่นอีกสิบสามภาษาที่เว็บไซต์นี้เผยแพร่ และรุ่นสำหรับ Android จะตามมาภายหลัง",
-    "© 2026 Inner Sign by Moving Truth. In development for iPhone and iPad.": "© 2026 Inner Sign โดย Moving Truth กำลังพัฒนาสำหรับ iPhone และ iPad"
-  },
-  "scriptTranslations": {
-    "Close navigation": "ปิดเมนูนำทาง",
-    "Open navigation": "เปิดเมนูนำทาง"
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-sign.index.text.0001": {
+      "value": "Inner Sign — โดย Moving Truth",
+      "sourceSha256": "82356b039ba75df9dbd26df9d86e2a47c556d7320d2426e41204321110d2266a"
+    },
+    "inner-sign.index.text.0002": {
+      "value": "ข้ามไปยังเนื้อหาหลัก",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-sign.index.text.0003": {
+      "value": "เปิดเมนูนำทาง",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-sign.index.text.0004": {
+      "value": "วันนี้",
+      "sourceSha256": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    "inner-sign.index.text.0005": {
+      "value": "ท้องฟ้าของฉัน",
+      "sourceSha256": "e6ce26a3a1ae7daf33bc8899a067e791d7a3984d587865023bef58b892f40376"
+    },
+    "inner-sign.index.text.0006": {
+      "value": "สำรวจ",
+      "sourceSha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    "inner-sign.index.text.0007": {
+      "value": "การวางจำหน่าย",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    "inner-sign.index.text.0008": {
+      "value": "แอปทั้งหมด",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-sign.index.text.0009": {
+      "value": "มองเข้าข้างใน มองขึ้นข้างบน ตามรอยความเชื่อมโยง",
+      "sourceSha256": "54a7b75a7af0a2a48a75b83f0b5be12826ec619cfa37e1a3ae9c75042aa80f5b"
+    },
+    "inner-sign.index.text.0010": {
+      "value": "เข้าร่วมการเข้าถึงล่วงหน้า",
+      "sourceSha256": "ad15bb5a7b458a8929f40e30d83a46c78f3927e73890380ef79d3f2b4605ae00"
+    },
+    "inner-sign.index.text.0011": {
+      "value": "ดูว่ามีอะไรอยู่ข้างใน",
+      "sourceSha256": "f93ebec1351e7cd3bff2df67bad375919e72451b9f355bfc43619fd7be1fbd2c"
+    },
+    "inner-sign.index.text.0012": {
+      "value": "เลื่อนเพื่อมองเข้าไปข้างใน",
+      "sourceSha256": "b4ed5666c45cf5c0b31b0ba239f822d532b4ec01203722f79f3ad38811950382"
+    },
+    "inner-sign.index.text.0013": {
+      "value": "ประตูบานหนึ่ง ไม่ใช่คำตัดสิน",
+      "sourceSha256": "0f01da5039850af16d7993a6124906d950da431bcd53ab3fdcb8f9b524b9b1c2"
+    },
+    "inner-sign.index.text.0014": {
+      "value": "Inner Sign นำการใคร่ครวญส่วนตัว ท้องฟ้าที่สังเกตได้ และเรื่องราวของมนุษย์กับดาราศาสตร์ มารวมไว้ในที่เดียวที่เชื่อมโยงกัน แอปเสนอแบบแผนให้ลองพิจารณา ไม่ใช่กฎว่าคุณเป็นใครหรือสิ่งใดต้องเกิดขึ้นต่อไป",
+      "sourceSha256": "de1e3cfac3b5ab9352d74a1d0de006cba1b031f46dcb6825d6ba44977d7638de"
+    },
+    "inner-sign.index.text.0015": {
+      "value": "การวัดมาก่อนความหมาย ทุกเส้นด้ายยังมองเห็นได้",
+      "sourceSha256": "2d542cb2a5fbc14df1bf85db7a3b19c128fb782e06ac6d68a8446f7379cef106"
+    },
+    "inner-sign.index.text.0016": {
+      "value": "วันนี้",
+      "sourceSha256": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    "inner-sign.index.text.0017": {
+      "value": "ท้องฟ้าของฉัน",
+      "sourceSha256": "e6ce26a3a1ae7daf33bc8899a067e791d7a3984d587865023bef58b892f40376"
+    },
+    "inner-sign.index.text.0018": {
+      "value": "สำรวจ",
+      "sourceSha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    "inner-sign.index.text.0019": {
+      "value": "ปฏิทินของคุณ",
+      "sourceSha256": "4606a66e61728dcd2e8219a649faa7eae8047ca3c3cef486c0204ad7730143e6"
+    },
+    "inner-sign.index.text.0020": {
+      "value": "วันนี้ · มองเข้าข้างใน",
+      "sourceSha256": "145267c6b39670b7feb0dac3d81973d6d9a494e26f751e8e5f197d207083bca6"
+    },
+    "inner-sign.index.text.0021": {
+      "value": "การอ่านที่เป็นของคุณและวันนี้",
+      "sourceSha256": "28522294a2ccfcd5bdb5241e333783195b0a68d33d67e47bd9cd450755192844"
+    },
+    "inner-sign.index.text.0022": {
+      "value": "บอกวันเกิดหนึ่งวันแก่ Inner Sign แล้วแอปจะนำรากฐานส่วนตัวที่มั่นคงมาพบกับลักษณะของวันที่เปลี่ยนไปเรื่อย ๆ ในข้อความใคร่ครวญสั้น ๆ ที่คุณจะรับไว้หรือปล่อยผ่านก็ได้",
+      "sourceSha256": "e7972badc53e2a252d142fca2a17b7aa263aaa5f87693676def3040b43504b08"
+    },
+    "inner-sign.index.text.0023": {
+      "value": "สิ่งที่มั่นคงในตัวคุณ",
+      "sourceSha256": "73995a208209714a30dd1971a834e703a0aa3cb8b83b5cd0907042b7ffd9d322"
+    },
+    "inner-sign.index.text.0024": {
+      "value": "ราศีอาทิตย์ของคุณและส่วนที่สามของ Inner Sign ในราศีนั้น สัตว์ประจำนักษัตรจีนของคุณและธาตุของมัน",
+      "sourceSha256": "caac4d69264f9695061d5dadde53148e5d1e601008aa42c040a1181cf534e8f5"
+    },
+    "inner-sign.index.text.0025": {
+      "value": "สิ่งที่มีชีวิตในวันนี้",
+      "sourceSha256": "bad119a91869f70e1f7487b9ac30935a2c2a9870602e6e898a95f5612133ee3c"
+    },
+    "inner-sign.index.text.0026": {
+      "value": "เลขสากลประจำวันพร้อมแสดงวิธีคำนวณ และระยะดวงจันทร์ปัจจุบัน",
+      "sourceSha256": "f2d0e8be9cbcff920ef96956ba445b598ae6f4128e12e1b5fa1523187f7968c7"
+    },
+    "inner-sign.index.text.0027": {
+      "value": "สดใหม่ ไม่ใช่สุ่ม",
+      "sourceSha256": "cc6b4ed3452bc23865e0b08caf301cf42162fda095faf510e175a2bb4f8103ca"
+    },
+    "inner-sign.index.text.0028": {
+      "value": "วันเกิดเดียวกันในวันเดียวกันจะให้การอ่านเดียวกันเสมอ",
+      "sourceSha256": "4079908bee1e063482b7f98e3452164e47f0a3b98f7cfd9ef3e11e11ea41cd31"
+    },
+    "inner-sign.index.text.0029": {
+      "value": "ทุกส่วนเปิดลึกลงไปได้อีก",
+      "sourceSha256": "2f3324b27006cebca46b756fc09c865e99c055b4323b374dede3e44e209923b1"
+    },
+    "inner-sign.index.text.0030": {
+      "value": "แตะราศี สัตว์ประจำนักษัตร เลขประจำวัน หรือดวงจันทร์ เพื่อเปิดคำอธิบายที่ละเอียดขึ้น ผลลัพธ์ของทุกราศีและกลุ่มดาว และข้างขึ้นข้างแรมทั้งแปดระยะ ต่อไปยังหน้าสำรวจที่ระบุแหล่งที่มา ส่วนหน้าที่ระบุแหล่งที่มาของสัตว์นักษัตรจีนและเลขประจำวันยังอยู่ระหว่างการเพิ่ม",
+      "sourceSha256": "459c544c72fe1e0e1b6e0acc4b854dca2d03cbd554e548de6e31cde63495dd8e"
+    },
+    "inner-sign.index.text.0031": {
+      "value": "สองวิธีในการอ่านท้องฟ้า",
+      "sourceSha256": "4a1d4c11d3358a8c96d71d58842dc559ed31e741e8141d6ff0c0d48693483f4f"
+    },
+    "inner-sign.index.text.0032": {
+      "value": "แบบดั้งเดิม 12 แบบดาราศาสตร์ 13",
+      "sourceSha256": "0b2c207148cd0ee5db582954b8b53ac52fac33dd0fcbbc545bb35d5b30f62e74"
+    },
+    "inner-sign.index.text.0033": {
+      "value": "อ่านราศีของคุณผ่านจักรราศีสิบสองราศีที่คุ้นเคย หรือผ่านกลุ่มดาวสิบสามกลุ่มที่ดวงอาทิตย์โคจรผ่านจริง รวมถึงกลุ่มดาวคนแบกงู (โอฟีอูคัส) สลับมุมมองได้ในทุกการอ่าน แล้วดูว่าอะไรเปลี่ยนไปสำหรับวันเกิดของคุณ มีเพียงราศีที่เปลี่ยน ส่วนที่เหลือของการอ่านยังคงเดิม",
+      "sourceSha256": "a684eccb872b4b064718585f21a53aeb11cba1d23975702de09b93b8a0a29f5f"
+    },
+    "inner-sign.index.text.0034": {
+      "value": "ไม่มีมุมมองใดถูกนำเสนอว่าเป็นความจริงหนึ่งเดียวที่พิสูจน์แล้ว หัวใจสำคัญคือความอยากรู้",
+      "sourceSha256": "b02a43ea08c363c47d581567167720629ac40624441e34ae91787ff492bf5b11"
+    },
+    "inner-sign.index.text.0035": {
+      "value": "ท้องฟ้าของฉัน · มองขึ้นข้างบน",
+      "sourceSha256": "c1c42d0e4aff568c031c4be1d3f3f16fd32bd830a536e86898a6985eb6236dc3"
+    },
+    "inner-sign.index.text.0036": {
+      "value": "ท้องฟ้าเหนือศีรษะคุณ คำนวณบนอุปกรณ์ของคุณ",
+      "sourceSha256": "358f18e5410526773366daa27113bf7da599f128f2b15773db447ade216cbee7"
+    },
+    "inner-sign.index.text.0037": {
+      "value": "เลือกจุดสังเกต ไม่ว่าจะเป็นภาพตำแหน่งที่บันทึกครั้งเดียว หรือเมืองหนึ่งจากกว่า 34,000 เมืองที่เก็บไว้แบบออฟไลน์ แล้ว Inner Sign จะคำนวณทุกอย่างที่ทำได้จากตรงนั้นโดยไม่ต้องเชื่อมต่อเครือข่าย",
+      "sourceSha256": "1556f7fa990176b8b98da0814d840f644f2e36de224863b535b5166a83fefc6e"
+    },
+    "inner-sign.index.text.0038": {
+      "value": "ดาวแอนทาเรสอยู่ที่ใด",
+      "sourceSha256": "7861ca31e0df03f9dea924b292c2edf7538f5b291bf9c3d403ebc499a46ab910"
+    },
+    "inner-sign.index.text.0039": {
+      "value": "หัวใจสีแดงสว่างของกลุ่มดาวแมงป่อง: อยู่เหนือหรือใต้ขอบฟ้าของคุณ ทิศใด และสูงเพียงใด",
+      "sourceSha256": "9d5049b3acc141d191dfbcb04b7eaf9e86d7f6e2ca825ae118405f542049d350"
+    },
+    "inner-sign.index.text.0040": {
+      "value": "ตามหาแอนดรอมิดา",
+      "sourceSha256": "39359de9822211aae5e6795f7dcc1770bc6d3f9cc33664779d4b29ae3a1f90a1"
+    },
+    "inner-sign.index.text.0041": {
+      "value": "M31 เพื่อนบ้านดาราจักรขนาดใหญ่ที่ใกล้เราที่สุด อยู่ตรงไหนบนท้องฟ้าของคุณ ต้องมีอะไรบ้างจึงจะมองเห็นแสงฝ้าจาง ๆ ของมันได้จริง และทางลัดไปยังแผนที่ค้นหาของมันในส่วนสำรวจ",
+      "sourceSha256": "bc53d42546de1c67577a7acf8c1a43e56cbd570b8e756c9bb5cacd8596c955f0"
+    },
+    "inner-sign.index.text.0042": {
+      "value": "อายุของแสง",
+      "sourceSha256": "87b22d2c9f0603f238d13168b8f6b5c80352d029148002bc76ec95b4fa95b25d"
+    },
+    "inner-sign.index.text.0043": {
+      "value": "แสงอาทิตย์ที่มาถึงคุณเดินทางมานานเท่าใด การเดินทางทั้งหมดของแสงจันทร์จากดวงอาทิตย์สู่ดวงจันทร์แล้วมาถึงคุณ และราว 2.5 ล้านปีที่แสงจากแอนดรอมิดาใช้เดินทางมาถึงคุณ",
+      "sourceSha256": "5aeca9ba02bf47e787160da520a924a323ebcd43286f6f1b5066120cbb9af82e"
+    },
+    "inner-sign.index.text.0044": {
+      "value": "สุริยุปราคาและจันทรุปราคาทุกครั้งในรอบปี",
+      "sourceSha256": "42342bb1fa8b7e86c33764241ebdace5e8cb308b7c64080e193658433598d456"
+    },
+    "inner-sign.index.text.0045": {
+      "value": "ทั้งสุริยุปราคาและจันทรุปราคาทั่วโลก โดยรวบรวมครั้งที่มองเห็นได้จากจุดสังเกตของคุณไว้ก่อน",
+      "sourceSha256": "472ef0a0ad36e18ec141091313b9ceeaf9e2123c4fb05f37586368983d4718e6"
+    },
+    "inner-sign.index.text.0046": {
+      "value": "จุดเปลี่ยนของปี",
+      "sourceSha256": "e24b96dbbe2e7a23885e3a1aeef2435e36802d822d1bb2ba62107d6633c12973"
+    },
+    "inner-sign.index.text.0047": {
+      "value": "ข้างขึ้นข้างแรมหลักทุกระยะ วันวิษุวัต และวันอายัน ของปีที่คุณเลือก",
+      "sourceSha256": "b05fd097f4af5332979907abf91d9adaf4ec437c385e0770fa7a04e052b59dbd"
+    },
+    "inner-sign.index.text.0048": {
+      "value": "สำรวจ · ตามรอยความเชื่อมโยง",
+      "sourceSha256": "35f509fb93d61ae3753bbc2a462215e4c53a6492a1099454b1bb061d552d52ed"
+    },
+    "inner-sign.index.text.0049": {
+      "value": "กลุ่มดาวยี่สิบเอ็ดกลุ่ม วาดแผนที่จากแหล่งที่มา",
+      "sourceSha256": "0abc2e9b9fc9200999ffee4a36ccf620781947ca6a4755a3239b3e713fbb87ca"
+    },
+    "inner-sign.index.text.0050": {
+      "value": "กลุ่มดาวทั้งสิบสามกลุ่มบนเส้นทางของดวงอาทิตย์ และเพื่อนบ้านอีกแปดกลุ่มที่อยู่ไกลออกไป ได้แก่ กลุ่มดาววาฬ (ซีตัส) กลุ่มดาวนายพราน กลุ่มดาวสุนัขใหญ่ กลุ่มดาวหมีทั้งสอง กลุ่มดาวแคสซิโอเปีย กลุ่มดาวแอนดรอมิดา และกลุ่มดาวกางเขนใต้ คู่มือแต่ละฉบับวาดจากตำแหน่งดาวที่บันทึกในบัญชีดาวภายในขอบเขตทางการของกลุ่มดาวนั้น แสดงว่าแสงของดาวเด่นแต่ละดวงเดินทางมานานเท่าใด และมีรายชื่อดาวครบถ้วนสำหรับผู้ที่อยากอ่านมากกว่าดู แผนที่ของกลุ่มดาวแอนดรอมิดายังระบุดาราจักรแอนดรอมิดา M31 ด้วย",
+      "sourceSha256": "c23d19d029c1ccc0123b331df298e3166873e82912c78e8cefda1e392eaaba2a"
+    },
+    "inner-sign.index.text.0051": {
+      "value": "แผนที่ความรู้ที่แสดงว่ากลุ่มดาว เหตุการณ์ ผู้คน และขนบธรรมเนียมเชื่อมโยงกันอย่างไร และยังดูเป็นรายการธรรมดาได้ด้วย",
+      "sourceSha256": "607ad3d175555a421388a389884887e9b646eec247726c962493fec18b55e198"
+    },
+    "inner-sign.index.text.0052": {
+      "value": "บทเรียนดวงจันทร์แบบโต้ตอบ: เลื่อนดวงจันทร์ไปรอบโลก แล้วดูการเกิดของข้างขึ้นข้างแรมทั้งแปดระยะ",
+      "sourceSha256": "fcc54b4e66863b8d0bd2a992ed165feb50da726eea050c6911635f45e4434d09"
+    },
+    "inner-sign.index.text.0053": {
+      "value": "ดวงจันทร์ ฤดูกาล วันอายัน และวันวิษุวัต แต่ละเรื่องมีคำอธิบายและลิงก์ไปยังแหล่งที่มา",
+      "sourceSha256": "e1cd4318fd117ce3c06c5fd6e159440bfb60ba0748f1fa5a451cf3696a45ea73"
+    },
+    "inner-sign.index.text.0054": {
+      "value": "ดาราศาสตร์ ประวัติศาสตร์ ขนบธรรมเนียมทางวัฒนธรรม โหราศาสตร์ และการตีความของ Inner Sign เอง โดยติดป้ายบอกเสมอว่าส่วนใดเป็นอะไร",
+      "sourceSha256": "b0c066bb13b0ea66c3c6dff1ef49d6e130a729b98d98258bbc556d6a17fdfa4f"
+    },
+    "inner-sign.index.text.0055": {
+      "value": "ปฏิทินของคุณ",
+      "sourceSha256": "4606a66e61728dcd2e8219a649faa7eae8047ca3c3cef486c0204ad7730143e6"
+    },
+    "inner-sign.index.text.0056": {
+      "value": "วันสำคัญของท้องฟ้า เฉพาะเมื่อคุณต้องการ",
+      "sourceSha256": "9438104218dada8cabae36353ecbfb5f52088292cdeee0943879132d3fc14e8d"
+    },
+    "inner-sign.index.text.0057": {
+      "value": "ตั้งการเตือนสำหรับเหตุการณ์เดียว เปิดการแจ้งเตือนข้างขึ้นข้างแรม ฤดูกาล และอุปราคาของปี หรือเพิ่มทั้งปีลงในปฏิทิน Inner Sign ที่แยกต่างหากในแอปปฏิทินของ Apple ได้ในขั้นตอนเดียว การเพิ่มซ้ำจะไม่สร้างรายการซ้ำ และ Inner Sign ไม่เคยอ่านกิจกรรมอื่นของคุณ",
+      "sourceSha256": "af6d3d08ac3aa6ec85c7336609bf08d4c4ad36af1fcbb1d850b1c6f8b2236386"
+    },
+    "inner-sign.index.text.0058": {
+      "value": "สร้างเพื่อความชัดเจนและความไว้วางใจ",
+      "sourceSha256": "53fdee2c427c8c5121dd16b6760bbc0e1f7cff564f188d96c28f1cc9d40ef3d0"
+    },
+    "inner-sign.index.text.0059": {
+      "value": "ไม่ซ่อนสิ่งใด ไม่เอาสิ่งใดไป",
+      "sourceSha256": "0b1ffd4721a1989fc9ccb201325972e7983a69e85fc9baa7d03295aaa0322059"
+    },
+    "inner-sign.index.text.0060": {
+      "value": "เป็นส่วนตัวตั้งแต่การออกแบบ",
+      "sourceSha256": "485ca594ccc9003ba4908cc7f0024a92ce2a89f2e3e49fb4acbc61770eff6580"
+    },
+    "inner-sign.index.text.0061": {
+      "value": "วันเกิดและเมืองที่คุณเลือกจะอยู่บนอุปกรณ์ของคุณเท่านั้น ภาพตำแหน่งจะถูกเก็บไว้เฉพาะระหว่างเซสชัน ไม่มีการติดตาม ไม่มีการบันทึก ไม่มีบัญชี ไม่มีโฆษณา ไม่มีการติดตาม",
+      "sourceSha256": "2ad537b12802e373efb0b137771a1a841fa609b82f491c3a1254d8d5d7b64f81"
+    },
+    "inner-sign.index.text.0062": {
+      "value": "แหล่งที่มาที่คุณตรวจสอบได้",
+      "sourceSha256": "ef9757a37a74284f08da0f0001bb5f03672cbc9be75e524743f08d62129f5e43"
+    },
+    "inner-sign.index.text.0063": {
+      "value": "การคำนวณท้องฟ้าและหน้าข้อเท็จจริงลิงก์ไปยังแหล่งที่มา เพื่อให้คุณตรวจสอบและศึกษาต่อได้",
+      "sourceSha256": "5d769961791513ecbc5a31217b6ad1da78787d251068841072f8e7b45ef77354"
+    },
+    "inner-sign.index.text.0064": {
+      "value": "ออกแบบให้ปรับเข้ากับคุณ",
+      "sourceSha256": "e6bd2b61b5a2802604d3c4b17ad33e1f83b025c657dd31e296b043c5129c199c"
+    },
+    "inner-sign.index.text.0065": {
+      "value": "VoiceOver ข้อความขนาดใหญ่ขึ้น ความต่างของสีที่เพิ่มขึ้น การลดการเคลื่อนไหว และทางเลือกแบบอ่านได้สำหรับทุกแผนภาพ",
+      "sourceSha256": "4ce09bdcaf7bb01a756adaa696604eef158bc48638625f8c868b3aaffde9234b"
+    },
+    "inner-sign.index.text.0066": {
+      "value": "สูตรที่เปิดเผย",
+      "sourceSha256": "435874d5b03742f970cd81dcc0436e6da23b183adf79925f7097da2855ff7577"
+    },
+    "inner-sign.index.text.0067": {
+      "value": "วิธีสร้างการอ่านแต่ละครั้ง ทั้งสองมุมมอง ส่วนที่สาม เลขประจำวัน นักษัตรจีน และดวงจันทร์ ได้รับการเผยแพร่และทดสอบแล้ว",
+      "sourceSha256": "088db018f9167688d26a22c37d6743ea78664a8e7a71dfb905b5c821972fc489"
+    },
+    "inner-sign.index.text.0068": {
+      "value": "อ่านสูตรด้วยตัวคุณเอง",
+      "sourceSha256": "e76932ff254ef186abc14244ea46dc42897781581fe75d9c46ef92999ac31897"
+    },
+    "inner-sign.index.text.0069": {
+      "value": "เจตนาสำหรับ Inner Sign",
+      "sourceSha256": "f3cb50e5793d4c150eabc4579c6e97535ca09a1261e0d262c7eb4eae8979039e"
+    },
+    "inner-sign.index.text.0070": {
+      "value": "ขอให้ทุกมุมมองขยายความใคร่รู้โดยไม่ทำให้ความจริงแคบลง",
+      "sourceSha256": "ee9b78afca463289cd09058120d4fafa0788f3ff922de62a8230a925670359ea"
+    },
+    "inner-sign.index.text.0071": {
+      "value": "ขอให้ศาสตร์เก่าแก่ได้รับการปฏิบัติด้วยความเคารพ",
+      "sourceSha256": "f1d36704784ae8a14feba8c9ade5a06bd36fc4e0da6d8e03a45ca5fd837ba6b4"
+    },
+    "inner-sign.index.text.0072": {
+      "value": "ขอให้การอ่านพาแต่ละคนกลับสู่ความรู้ภายในของตนอย่างอ่อนโยน",
+      "sourceSha256": "c419ec779053072bd232db8a2eb79c51a2b4e541b63ca05672b9e350e85074ad"
+    },
+    "inner-sign.index.text.0073": {
+      "value": "โดย Moving Truth",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-sign.index.text.0074": {
+      "value": "สร้างด้วยความรักโดย Skylaur Roe",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    "inner-sign.index.text.0075": {
+      "value": "สำรวจแอป Moving Truth ทั้งหมด",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-sign.index.text.0076": {
+      "value": "Inner Sign อยู่ในขั้นใด",
+      "sourceSha256": "6960e43950f6e7036dafd45aef73ad26ff9462c5303e094806f4fc8ae43b674e"
+    },
+    "inner-sign.index.text.0077": {
+      "value": "ตำแหน่งของคุณในแบบแผน",
+      "sourceSha256": "930fb711cc36065c557ae1eff4121f7daff878ac1d2a68145e326db0c14dd8a8"
+    },
+    "inner-sign.index.text.0078": {
+      "value": "Inner Sign กำลังพัฒนาสำหรับ iPhone และ iPad และยังไม่มีใน App Store ส่วนวันนี้ ท้องฟ้าของฉัน และสำรวจ ใช้งานได้แล้วทั้งหมด วันเกิดทุกวันที่เลือกได้ ตั้งแต่ปี 1900 จนถึงวันนี้ จะเปิดการอ่านเป็นภาษาอังกฤษ ในส่วนที่ข้อความฉบับเต็มยังเขียนไม่เสร็จ จะมีข้อความทั่วไปที่สั้นกว่ามาแทนที่ ระหว่างที่คลังการอ่านฉบับสมบูรณ์ยังอยู่ระหว่างการเขียนและการตรวจทาน การแปลตัวแอปเองเป็นภาษาอื่นอีกสิบสามภาษาที่เว็บไซต์นี้เผยแพร่ และรุ่นสำหรับ Android จะตามมาภายหลัง",
+      "sourceSha256": "38d19027efb46baf3cf5696e89d9f999eb184951076f4154e485a477d369e6ff"
+    },
+    "inner-sign.index.text.0079": {
+      "value": "เข้าร่วมการเข้าถึง Inner Sign ล่วงหน้า",
+      "sourceSha256": "537102624fffc160501fcd9c0b91a3a1a43f08bcf5b3ffded1a8894c97e9b83c"
+    },
+    "inner-sign.index.text.0080": {
+      "value": "วันนี้",
+      "sourceSha256": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    "inner-sign.index.text.0081": {
+      "value": "ท้องฟ้าของฉัน",
+      "sourceSha256": "e6ce26a3a1ae7daf33bc8899a067e791d7a3984d587865023bef58b892f40376"
+    },
+    "inner-sign.index.text.0082": {
+      "value": "สำรวจ",
+      "sourceSha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    "inner-sign.index.text.0083": {
+      "value": "ฝ่ายช่วยเหลือ",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-sign.index.text.0084": {
+      "value": "แอปทั้งหมด",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-sign.index.text.0085": {
+      "value": "© 2026 Inner Sign โดย Moving Truth กำลังพัฒนาสำหรับ iPhone และ iPad",
+      "sourceSha256": "14228bf6366e2fcda27811e6e70c227852456cd84147cf9acd8b43bbdd2aa715"
+    },
+    "inner-sign.index.attribute.0001": {
+      "value": "Inner Sign รวมการใคร่ครวญประจำวันส่วนตัว ท้องฟ้าจริงเหนือศีรษะคุณ และแผนที่กลุ่มดาวที่ระบุแหล่งที่มา ไว้ในแอปส่วนตัวเพียงแอปเดียว กำลังพัฒนาสำหรับ iPhone และ iPad",
+      "sourceSha256": "d87b81f26ab38dff6885b9e3a0845cc139c2544df4a272776e38d7a6700d67f3"
+    },
+    "inner-sign.index.attribute.0002": {
+      "value": "Inner Sign — โดย Moving Truth",
+      "sourceSha256": "82356b039ba75df9dbd26df9d86e2a47c556d7320d2426e41204321110d2266a"
+    },
+    "inner-sign.index.attribute.0003": {
+      "value": "มองเข้าข้างใน มองขึ้นข้างบน ตามรอยความเชื่อมโยง",
+      "sourceSha256": "54a7b75a7af0a2a48a75b83f0b5be12826ec619cfa37e1a3ae9c75042aa80f5b"
+    },
+    "inner-sign.index.attribute.0004": {
+      "value": "หน้าหลัก Inner Sign",
+      "sourceSha256": "ef12ad1504de535019d244e1516c1c43e17cb56367c446d6d68d226f4106d9d5"
+    },
+    "inner-sign.index.attribute.0005": {
+      "value": "เมนูนำทางหลัก",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-sign.index.attribute.0006": {
+      "value": "ไอคอน Inner Sign: สัญลักษณ์ธาตุสีทองสี่แบบล้อมเกลียวกลางบนพื้นมืด",
+      "sourceSha256": "ae431171ba530a6d0884be323a249b1504a2a43eafc99d97332b6d002bd39cc4"
+    },
+    "inner-sign.index.attribute.0007": {
+      "value": "สิ่งที่อยู่ใน Inner Sign",
+      "sourceSha256": "bf27b6d3aa5531f30f0dd7ba3f3a31bc291f3a3278f780f8309de486380069b7"
+    },
+    "inner-sign.index.attribute.0008": {
+      "value": "เกี่ยวกับ Moving Truth",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-sign.index.attribute.0009": {
+      "value": "Moving Truth เปิด movingtruth.com",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-sign.index.attribute.0010": {
+      "value": "โลโก้ Moving Truth",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-sign.index.attribute.0011": {
+      "value": "เมนูนำทางส่วนท้าย",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-sign.index.script.0001": {
+      "value": "เปิดเมนูนำทาง",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-sign.site-js.script.0001": {
+      "value": "ปิดเมนูนำทาง",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    "inner-sign.site-js.script.0002": {
+      "value": "เปิดเมนูนำทาง",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    }
   }
 }
