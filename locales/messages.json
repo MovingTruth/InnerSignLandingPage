@@ -727,8 +727,8 @@
       "page": "index.html",
       "kind": "attribute",
       "locator": "#top/div[1]/img[1]/@alt",
-      "source": "Inner Sign app icon: four golden elemental symbols surrounding a central spiral on a dark field",
-      "sourceSha256": "ae431171ba530a6d0884be323a249b1504a2a43eafc99d97332b6d002bd39cc4"
+      "source": "Inner Sign app icon",
+      "sourceSha256": "028bea1c3e20166d51ccced37dda27b0e51efc59a8dd16de5b5fb7f6690c7db6"
     },
     {
       "id": "inner-sign.index.attribute.0007",
